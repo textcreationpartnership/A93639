@@ -1,0 +1,1107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Adam out of Eden or, an abstract of divers excellent experiments touching the advancement of husbandry. Shewing, among very many other things, an aprovement of ground by rabbiss [sic],from 200 l. annual rent, to 2000 l. yearly profit, all charges deducted. / By Ad. Speed. Gent.</title>
+            <author>Speed, Adolphus, fl. 1652-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 132 KB of XML-encoded text transcribed from 97 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93639</idno>
+            <idno type="STC">Wing S4877</idno>
+            <idno type="STC">Thomason E2135_1</idno>
+            <idno type="STC">ESTC R203589</idno>
+            <idno type="EEBO-CITATION">99863499</idno>
+            <idno type="PROQUEST">99863499</idno>
+            <idno type="VID">115703</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115703)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 243:E2135[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Adam out of Eden or, an abstract of divers excellent experiments touching the advancement of husbandry. Shewing, among very many other things, an aprovement of ground by rabbiss [sic],from 200 l. annual rent, to 2000 l. yearly profit, all charges deducted. / By Ad. Speed. Gent.</title>
+                  <author>Speed, Adolphus, fl. 1652-1659.</author>
+               </titleStmt>
+               <extent>[6], 163 [i.e. 179], [7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Brome, at the Gun in Ivy-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659 [i.e. 1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. 179 misnumbered 163.</note>
+                  <note>The last leaf bears vertical half-title: Speeds husbandry.</note>
+                  <note>With three advertisement leaves immediately following text.</note>
+                  <note>Annotation on Thomason copy: "Octob:"; the 9 in the imprint date is crossed out and replaced with an "8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Agriculture --  England --  Early works to 1800.</term>
+               <term>Horticulture and crops --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115703:1" rendition="simple:additions"/>
+            <p> ADAM OUT OF EDEN, OR, An abſtract of divers excellent Experiments tou<g ref="char:EOLhyphen"/>ching the advancement of <hi>Husbandry.</hi>
+            </p>
+            <p>SHEWING, Among very many other things, an Aprovement of Ground by <hi>Rabbiss,</hi> from 200 <hi>l.</hi> annual Rent, to 2000 <hi>l.</hi> yearly profit, all charges deduct<g ref="char:EOLhyphen"/>ed.</p>
+            <p>By <hi>Ad. Speed.</hi> Gent.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Brome,</hi> at the <hi>Gun</hi> in <hi>Ivy-lane.</hi> 1659.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:115703:2" rendition="simple:additions"/>
+            <head>A Digreſsion to the uſage of di<g ref="char:EOLhyphen"/>vers Countries concern<g ref="char:EOLhyphen"/>ing the Tillage.</head>
+            <lg>
+               <l>EAch ſoyl hath no liking of every Grain,</l>
+               <l>Nor Barly nor Wheat is for every vain;</l>
+               <l>Yet know I no Country ſo barren of ſoyl,</l>
+               <l>But ſome kind of coin may be gotten with toyl.</l>
+            </lg>
+            <lg>
+               <l>Though Husband at home be to count the was what,</l>
+               <l>Yet Huswife within is as needfull as that;</l>
+               <l>What helpeth in ſtore, to have never ſo much</l>
+               <l>Half loſt by ill uſage? ill Huswifes and ſuch?</l>
+            </lg>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:115703:3"/>
+            <pb facs="tcp:115703:3"/>
+            <head>To the Reader.</head>
+            <p>HOw excellent and how innocent the art of <hi>Husbandry</hi> is, has been ſufficiently made out by the beſt of <hi>Authors; God</hi> himſelf, who choſe out that employment for the beſt of the Creatures, <hi>Man,</hi> whom he placed in <hi>Eden,</hi> not only to <hi>enjoy,</hi> but to <hi>labour,</hi> without both which no place can be a <hi>Paradiſe.</hi> Perpetual <hi>enjoy<g ref="char:EOLhyphen"/>ments</hi> without bodily <hi>exerciſe</hi> breed<g ref="char:EOLhyphen"/>ing nothing but loathing and diſeaſes; For which cauſe the actions of <hi>body</hi> or <hi>mind</hi> are called <hi>Recreations,</hi> as carrying on the grand deſign of <hi>God</hi> himſelf.</p>
+            <p>Nor can there be found in <hi>Nature</hi> a more ingenuous, neceſſary, delightfull, or honourable <hi>employment,</hi> than <hi>Agri<g ref="char:EOLhyphen"/>culture;</hi> a <hi>Calling</hi> born with us, and bred in us, affording matter for the moſt
+<pb facs="tcp:115703:4"/>refined <hi>Wits,</hi> without which <hi>Man<g ref="char:EOLhyphen"/>kind</hi> cannot be preſerved; by which we are both <hi>ſuſtained</hi> and <hi>delighted.</hi> An <hi>Art</hi> wherein renowned <hi>Scholars</hi> have employed their <hi>parts,</hi> and <hi>Princes</hi> with<g ref="char:EOLhyphen"/>out diſhonour their time and <hi>pains.</hi>
+            </p>
+            <p>Yet ſuch is the <hi>pride</hi> and <hi>folly</hi> of our <hi>Nation,</hi> that moſt aſpire to <hi>collateral</hi> Vocations, which owe their life and ſuſte<g ref="char:EOLhyphen"/>nance to the <hi>Husband-man,</hi> and con<g ref="char:EOLhyphen"/>ſiſt only in <hi>over-reaching</hi> each other. And ſcarce any are left to ſtudy the <hi>Ge<g ref="char:EOLhyphen"/>orgicks,</hi> but ſuch as can do nothing elſe. For which cauſe our Anceſtors have left the rules and obſervations by which our skill herein ſhould be improved only by tradition, except <hi>Virgil</hi> and ſome o<g ref="char:EOLhyphen"/>thers, who have eternized their names by tranſmitting to poſterity their know<g ref="char:EOLhyphen"/>ledge herein.</p>
+            <p>For the promotion of which great and needfull <hi>work</hi> our ingenuous <hi>Author</hi> hath expoſed his <hi>Obſervations</hi> and <hi>Experiences</hi> to the publick view, which have long been ſmothered in private
+<pb facs="tcp:115703:4"/>hands, till by the good nature of a <hi>Pub<g ref="char:EOLhyphen"/>lick-ſpirited</hi> Gentleman, (to whoſe in<g ref="char:EOLhyphen"/>duſtry in ſeveral other things our <hi>Age</hi> is obliged) they have bleſt our eyes.</p>
+            <p>Embrace this opportunity, and reduce theſe Precepts to <hi>practice: England</hi> affords <hi>Land</hi> enough for the <hi>Inhabi<g ref="char:EOLhyphen"/>tants,</hi> and if men did but <hi>induſtriouſ<g ref="char:EOLhyphen"/>ly</hi> and <hi>skilfully</hi> improve and manure it, we need not go to <hi>Jamaica</hi> for new <hi>plantations.</hi> Farewell.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div n="1" type="chapter">
+               <pb facs="tcp:115703:5"/>
+               <pb n="1" facs="tcp:115703:5"/>
+               <head>
+                  <hi>Chap. 1.</hi> Of Improvement of ground by <hi>Rabbits.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">I</seg>T is in Husbandry, as in other practical Profeſſions, Art, In<g ref="char:EOLhyphen"/>duſtry, and Experi<g ref="char:EOLhyphen"/>ence adde every day new ſupplies to the better, either by contracting the charge, and then the improvement is in the Method, or by multiplying
+<pb n="2" facs="tcp:115703:6"/>the advantage, and then it is in the increaſe. How many rare ſecrets are there now diſcovered, whereby the Publick is enriched, whereof our Fore-fathers never dreamed? and ſome doubtleſs are as yet concealed from us, being left to poſterity and the next age to find out.</p>
+               <p>Becauſe amongſt many others relating to Husbandry ſome are of more excellent uſe, I have here made a ſelect choyce of them, reporting nothing but what obſervation and experience, to which my Genius hath been long addicted, have found certainly true.</p>
+               <p>And firſt I ſhall begin with the improvement of ground by Rab<g ref="char:EOLhyphen"/>bits.</p>
+               <p>There is to be taken five hundred acres of ground within fifteen miles of <hi>London,</hi> for eight ſhillings the a<g ref="char:EOLhyphen"/>cre, which being ſtored with twen<g ref="char:EOLhyphen"/>ty Rabbits <hi>per</hi> acre, highly bred, ſixteen of them being Breeders, ca<g ref="char:EOLhyphen"/>cording to direction, will in all
+<pb n="3" facs="tcp:115703:6"/>probability afford either of them twelve Rabbits at three litters. I have known thoſe ſo bred, that one Rabbit hath brought at one litter ſometimes ten, and commonly eleven, and hath brought them up very well, and fat, and at a Lords ground I have known the like increaſe, beſides thoſe of my own whereof I have had ſufficient experience; admit ſixteen Rabbits bring either of them but ten at three litters, they come to one hundred and ſixty Rabbits, for the which after ſix weeks of age I know a Poulterer that giveth eight pence the Rabbit, and conſtantly untill <hi>Michaelmas,</hi> and ſome Poulte<g ref="char:EOLhyphen"/>rers more after <hi>Michaelmas,</hi> which may be ſold ſo then between one ſhilling and one ſhilling eight pence the Rabbit; admit them but at eight pence the Rabbit all the year, one hundred and ſixty Rabbits come to five pound, ſix ſhillings, and eight pence the acre, and I am
+<pb n="4" facs="tcp:115703:7"/>confident that in grounds not pro<g ref="char:EOLhyphen"/>per for them, they brought the laſt unſeaſonable years before this, four, five, and ſeven at three litters. I have been ſufficiently reſolved in this de<g ref="char:EOLhyphen"/>ſign by the moſt of the Warreners throughout <hi>England,</hi> though I need<g ref="char:EOLhyphen"/>ed not their judgement.</p>
+               <p>In five hundred acres at five pound, ſix ſhillings, eight pence <hi>per</hi> acre, to be conſidered the herbage for ſheep and other cattel at leaſt one hundred pound <hi>per annum,</hi> beſides the keeping of Poultery, Pheaſants, Partridge and other fowl, with Pi<g ref="char:EOLhyphen"/>geons, Bees, &amp;c. and places for di<g ref="char:EOLhyphen"/>vers other plantations at twenty, thirty, forty, fifty pound an acre profit <hi>per annum</hi> and upward, with fiſh-ponds accordingly ſtored; be<g ref="char:EOLhyphen"/>ſides, there is an other profit in this deſign very conſiderable, and of no ſmall conſequence, with houſe<g ref="char:EOLhyphen"/>keeping compleat for all occaſions, and great conveniency for a Dairy, and very conveniently near <hi>London.</hi>
+               </p>
+               <pb n="5" facs="tcp:115703:7"/>
+               <p> Sum total, two thouſand, ſeven hundred, ſixty and ſix pound, rent for the ground, two hundred pound ſalaries ſixty, five pound food for the Rabbits, in Hutches one hun<g ref="char:EOLhyphen"/>dred pound, admit though more than needs by far, being there are now better preventions than formerly, one thouſand Rabbits at eight pence the Rabbit three hun<g ref="char:EOLhyphen"/>dred thirty three pounds, total ſix hundred ninety eight pounds, <hi>de claro</hi> two thouſand ſixty five pounds. If the number of the Rab<g ref="char:EOLhyphen"/>bits be thought too high, and the caſualties too low that followeth, to make up all, and to obſtruct all ob<g ref="char:EOLhyphen"/>jections, the firſt litter will breed the ſame year, being rightly bred and diſpoſed of, allow three of the laſt litters from every one of the firſt breeders (the Buck being firſt de<g ref="char:EOLhyphen"/>ſtroyed) bring ten Rabbits, which come to one hundred and ſixty Rab<g ref="char:EOLhyphen"/>bits <hi>per</hi> acre, and amount unto five pounds, ſix ſhillings, eight pence
+<pb n="6" facs="tcp:115703:8"/>
+                  <hi>per</hi> acre, total ſix hundred ſixty and ſix pounds as before.</p>
+               <p>There are two Gentlemen now in <hi>London</hi> of great ability and repute, that will juſtifie theſe proportions, and that they made out of two ſeve<g ref="char:EOLhyphen"/>ral five acres of ground either of them at leaſt ten pounds an acre <hi>per annum.</hi>
+               </p>
+               <p>That there is to be taken fifteen hundred acres, for one ſhil<g ref="char:EOLhyphen"/>ling <hi>per</hi> acre, that will after the like proportion, according to the num<g ref="char:EOLhyphen"/>ber of acres, bring many thouſand pounds more.</p>
+               <p>That two thouſand acres may be had at the ſame rate, that will very near render the ſame emolument according to the number of the a<g ref="char:EOLhyphen"/>cres, the ſame I leave to conſide<g ref="char:EOLhyphen"/>ration.</p>
+               <p>It matters not whether the ground afford any graſs at all in a manner, ſo it be warm and dry, be<g ref="char:EOLhyphen"/>ing there are ſeveral waies to feed
+<pb n="7" facs="tcp:115703:8"/>them, as formerly I have done, with very little charge, which will pre<g ref="char:EOLhyphen"/>ſerve them very high, and make them breed extraordinarily, and maintain more Rabbits by half than any Warren in <hi>England</hi> was ever known to do, they having to<g ref="char:EOLhyphen"/>tally neglected, and never orde<g ref="char:EOLhyphen"/>red the right ways, Rabbits being of the moſt profitable creatures of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> rightly uſed, the ſeveral ſorts of food that may be provided for them being not conſiderable, as may be perceived hereafter, the later they are kept the better are the Rabbits, and the richer the fur.</p>
+               <p>I have known five hundred Bree<g ref="char:EOLhyphen"/>ders kept at a time in an houſe, as may be within the 500 acres in Hutches, which would bring ſeven, eight, nine, or ten at a litter, but accounting only five at a litter one with another, being I formerly have deſtroyed the reſt, they are com<g ref="char:EOLhyphen"/>pleated to two thouſand five hun<g ref="char:EOLhyphen"/>dred
+<pb n="8" facs="tcp:115703:9"/>Rabbits <hi>per</hi> Month, and in ten Months <hi>per annum</hi> twenty five thou<g ref="char:EOLhyphen"/>ſand, which at eight pence a Rab<g ref="char:EOLhyphen"/>bit comes to about eight hundred thirty and three pounds, the charge indifferent, and with the ſame charge doubled, one thouſand Bree<g ref="char:EOLhyphen"/>ders may be kept, and they proba<g ref="char:EOLhyphen"/>bly amount to one thouſand ſix hun<g ref="char:EOLhyphen"/>dred ſixty and ſix, the Rabbits in the houſe we turn out at liberty to go out and come in when they pleaſe.</p>
+               <p>At a Months age, and at ſix weeks of age, when they ſhall be doubtleſs exceeding fat with ſuch food as ſhall be eaſily provided for them, they are then at the diſpoſe of the Poul<g ref="char:EOLhyphen"/>terer, only ſuch as are preſerved eſpecially for ſtore.</p>
+               <p>
+                  <hi>It.</hi> A ſort of Rabbits to be had, their fur beingworth near 3 <hi>s.</hi> 4 <hi>d.</hi> the skin, and in goodneſs near Be<g ref="char:EOLhyphen"/>ver, which I am confident may be made very near equal to Bever.</p>
+               <pb n="9" facs="tcp:115703:9"/>
+               <p> That upon tryal I found the diffe<g ref="char:EOLhyphen"/>rence between the weight of the or<g ref="char:EOLhyphen"/>dinary Rabbits uſually in Warrens, and the breed which may be provi<g ref="char:EOLhyphen"/>ded otherwiſe, to be half in half, be<g ref="char:EOLhyphen"/>ſides the great difference in the goodneſs of them.</p>
+               <p>If the ground want Covert ſhel<g ref="char:EOLhyphen"/>ter, or be too naked, they may be made warmer by ſowing French furze ſeeds, which will grow very ſpacious and to great flockt bodies in few years, and will proſper very well here in <hi>England,</hi> and extend to great profit yearly; there may be Malt made within the houſing be<g ref="char:EOLhyphen"/>longing to the five hundred acres, that with other emoluments may ſufficiently advance five hundred pounds <hi>per annum,</hi> beyond excepti<g ref="char:EOLhyphen"/>ons, by a diſcreet and provident way of buying Barley at the beſt hand, and by the diſpoſing of the Malt, both in making and ſelling thereof, there being great plenty of
+<pb n="10" facs="tcp:115703:10"/>the beſt fewel therefore being fearn.</p>
+               <p>There may be many Swine kept within the compaſs, and ſeveral ſorts of food to preſerve and fatten them not conſiderable.</p>
+               <p>
+                  <hi>Item</hi> Geeſe, Turkeys, Ducks that will lay two egges a day throughout the year, Pheaſants, Partridges, Coots, and all other ſorts of Fowl kept with ſuch ſeveral wholſome foods, ſo eaſily prepared, and ſo lit<g ref="char:EOLhyphen"/>tle charge, the benefit may be made of them may ariſe to be exceeding great.</p>
+               <p>And for Bees, being a place ſo con<g ref="char:EOLhyphen"/>venient, the profit of them may be maintainable under God, one hun<g ref="char:EOLhyphen"/>dred pounds <hi>per annum.</hi>
+               </p>
+               <p>
+                  <hi>Item</hi> Pigeons, &amp;c.</p>
+               <p>And for the too much neglected Creature the Silk vorm, whereas there are divers at this time that make a very great profit of them in a very high degree.</p>
+               <pb n="11" facs="tcp:115703:10"/>
+               <p> I am confidently aſſured, that by them may be (only in one room) advanced 500 pounds <hi>per annum</hi> and upwards; whereas the only cauſe of not keeping them more plentifully is for want of Mulberry leaves, the Trees whereof may be planted here with the ſtocks and branches there<g ref="char:EOLhyphen"/>of being brought for the moſt part beyond the Seas, which are dear, and moſt commonly ſpoyled with bringing.</p>
+               <p>There is a leaf lately diſco<g ref="char:EOLhyphen"/>vered growing here in <hi>England,</hi> and to be preſerved conſtantly in every Garden, that doth and hath maintained them better by far than the other leaves, which will like<g ref="char:EOLhyphen"/>wiſe coſt nothing, being that the ground in the five hundred acres may be juſtifiably advanced to a<g ref="char:EOLhyphen"/>bove twenty, thirty, forty, fifty pounds an acre, <hi>per annum,</hi> as may appear by the ſeveral diſcove<g ref="char:EOLhyphen"/>ries at large, as followeth in the o<g ref="char:EOLhyphen"/>ther papers. When you would have
+<pb n="12" facs="tcp:115703:11"/>Rabbits fat to the deſire, geld the Bucks that you intend to ſlaughter, which the Warrener may eaſily do, turn them out a while longer, and they will exceed in fatneſs, and eat more pleaſantly by far, than other<g ref="char:EOLhyphen"/>wiſe.</p>
+               <p>The firſt breed, charges and con<g ref="char:EOLhyphen"/>tingencies allowed may probably come to as before ſpecified, two thouſand, ſixty and eight pounds.</p>
+               <p>The ſecond breed, allowing ſome abatement for charges, comes to two thouſand ſix hundred ſixty and ſix pounds.</p>
+               <p>
+                  <hi>Item</hi> Rabbits in Hutches, charges to be abated, 1 thouſand ſix hun<g ref="char:EOLhyphen"/>dred ſixty and ſix pounds.</p>
+               <p>Malt <hi>per annum,</hi> five hundred pounds.</p>
+               <p>Benefit of fearn, furze, and other. fewel, five hundred pounds.</p>
+               <p>Swine, fowl, &amp;c. two hundred pounds.</p>
+               <pb n="13" facs="tcp:115703:11"/>
+               <p> Bees, &amp;c. one hundred pounds.</p>
+               <p>Silk worms, five hundred pounds.</p>
+               <p>All theſe I caſt in to make up the firſt deſign, with two hundred pounds to advance two thouſand pounds <hi>per annum.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="14" facs="tcp:115703:12"/>
+               <head>
+                  <hi>Chap. 2.</hi> An undeniable proportion of Coles to be had from the Pits near <hi>No<g ref="char:EOLhyphen"/>tingham</hi> to the <hi>Trents</hi> ſide, and ſo by Boats to <hi>Newark</hi> and the Towns adjacent, with the benefit may apparently accrew thereby beyond contradiction.</head>
+               <p>FIve double Waggons and five Boats to convey to <hi>Newark</hi> down the <hi>Trent</hi> eight thouſand loads <hi>per annum,</hi> for which they have paid at the pits five ſhillings the load: and
+<pb n="15" facs="tcp:115703:12"/>whereas they pay commonly nine ſhillings and upwards the hundred moſt part of the year, and much under weight, and but ſixteen, ſe<g ref="char:EOLhyphen"/>venteen, or eighteen hundred weight to the load, which ſhould be twen<g ref="char:EOLhyphen"/>ty hundred weight, being a mi<g ref="char:EOLhyphen"/>ſerable griping to the poorer ſort of people, to allow them con<g ref="char:EOLhyphen"/>ſtantly at ſix pence the hundred, being ten ſhillings the load, will be a very great publique good, and an Act of charity in the undertakers, and will render much honor to them, together with the prayers of the poor, &amp;c.</p>
+               <p>The eight thouſand loads at five ſhillings the load benefit, comes to two thouſand pounds carriage, by the return of Boats, at the leaſt three hundred pounds.</p>
+               <p>
+                  <hi>It.</hi> five hundred weight over<g ref="char:EOLhyphen"/>plus which are to he had at the Pits by agreement, allowing two hundred thereof waſte, ſix hundred pounds, total two thouſand, nine
+<pb n="16" facs="tcp:115703:13"/>hundred pounds.</p>
+               <p>That with a reaſonable ſum depoſited to have the Coals de<g ref="char:EOLhyphen"/>livered at two ſhillings ſix pence <hi>per</hi> load, the reſt amounting to one thouſand pound <hi>de claro</hi> diſ<g ref="char:EOLhyphen"/>burſements for horſes, wains, and boats, being the ſtanding ſtock, upon conſiderable computations, five hundred pounds or there a<g ref="char:EOLhyphen"/>bouts.</p>
+               <p>Charges for horſes, ſervants, &amp;c. <hi>per annum</hi> under ſeven hundred pounds, which will be defrayed by the week, though deducted there re<g ref="char:EOLhyphen"/>mains <hi>de claro</hi> beſides the one thou<g ref="char:EOLhyphen"/>ſand pounds, two thouſand two hun<g ref="char:EOLhyphen"/>dred pounds.</p>
+               <p>If Coals be raiſed to a high<g ref="char:EOLhyphen"/>er price at the Pits than for<g ref="char:EOLhyphen"/>merly, then the Hundreds and Loads muſt be ſold dearer at <hi>New<g ref="char:EOLhyphen"/>ark,</hi> &amp;c. and the ſame profit will remain.</p>
+               <p>There are divers other benefits to
+<pb n="17" facs="tcp:115703:13"/>be inſtanced and added to this de<g ref="char:EOLhyphen"/>ſign too tedious to ſpecifie, a<g ref="char:EOLhyphen"/>mounting to above one thouſand pounds <hi>per annum,</hi> and ſufficiently maintainable.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="18" facs="tcp:115703:14"/>
+               <head>
+                  <hi>Chap. 3.</hi> Concerning Turnips.</head>
+               <p>A Gentleman not far from <hi>Lon<g ref="char:EOLhyphen"/>don</hi> having dealt for ſtore of ground, part whereof being a meer dry ſand, and over-grown with moſs, that it was not worth two ſhillings the acre, I adviſed him to cauſe a cutting-Knife to be made ac<g ref="char:EOLhyphen"/>cording to a new deviſed way, wher<g ref="char:EOLhyphen"/>with with more conveniency than
+<pb n="19" facs="tcp:115703:14"/>formerly they pare up ſuch ſour ruſhy ground as they lately farm &amp;c. and call it <hi>Devonſhire</hi> Land and a Workman ſet about it he cut this ground ſome two inches thick, and turned it up, and layd the inſide outwards that done, letting the ground dry for the ſpace of a week, being formerly good neither for corn nor graſs, the Workman with a ſtrong Iron rake raked the ground all over, then caſt it over with Turnip-ſeeds, and raked it over again, which came up ſo well, the leaves and roots did ſo well rot, cool, mellow, and meliorate the ground, that the year following and after the crop of Turnips there came very good graſs.</p>
+               <p>The ground being afterwards fit for corn or graſs, part of which ground he again ſowed with Turnips the ſame year, and had two very great crops, and made at leaſt thirty pounds an acre there<g ref="char:EOLhyphen"/>of; beſides as I came to him he recei<g ref="char:EOLhyphen"/>ved
+<pb n="20" facs="tcp:115703:15"/>10 s. an acre for the leaves only being from the very tops of the bindings, when they are bound up in bundles, and for the other part of the bindings, he ſelling the Turnips by meaſure, made at the leaſt twen<g ref="char:EOLhyphen"/>ſhillings the acre, wherewith they now feed their milch Cattel, which they having plenty thereof will cauſe them to give milk three times a day with full veſſels, and conſtantly throughout the year, and better milk by far than any other, and al<g ref="char:EOLhyphen"/>though the roots may be ſold in moſt places as dear, as near <hi>London,</hi> and with the ſame benefit, yet the commodity of them is ſo exceeding great being known, they will not be parted with by any, for they are excellent for all ſorts of Cattel, and will feed them very fat in a ſhort time, and will likewiſe feed Calves and Lambs very fat, beſides, they being boyled will feed Swine to the height of fatneſs in a fortnights ſpace, and the liquor wherein they
+<pb n="21" facs="tcp:115703:15"/>are boyled will feed them better than the beſt whey. And I have ſeen Cows exceedingly greedy for the liquor and the Turnips boyled, they have eat and drunk of them continually, and without any other food, have afforded Milk in a<g ref="char:EOLhyphen"/>boundance more than with any o<g ref="char:EOLhyphen"/>ther food whatſoever, and became likewiſe fat therewith; the Tur<g ref="char:EOLhyphen"/>nips boyled will feed all ſorts of Poultty fat, and cauſe them to lay their egges conſtantly without any corn at all, whereby may be kept both Geeſe, Turkeys, Pheaſants, Partridges, Coots, Moor-cocks, in abundance without any charge, ſo that 'tis clear Turnips will grow on the meaneſt ground with little labor, &amp; without muck. I have known thoſe that have kept their horſes fat by ſli<g ref="char:EOLhyphen"/>cing them &amp; ſo caſting them into the Manger, and of all food whatſoever there is nothing ſo wholeſom and ſo healthfull as they be for Cattel, &amp;c. for thereby may be avoided the Mur<g ref="char:EOLhyphen"/>rain
+<pb n="22" facs="tcp:115703:16"/>&amp; all other dangerous diſeaſes.</p>
+               <p>There is a Knight row in this City that did preſerve and keep all ſorts of Poultry (and Rabbits) by a paſte as followeth, which was made of Beaſts liver, the courſeſt laſt corn ground and bran, with a com<g ref="char:EOLhyphen"/>petent commixture: but I have for<g ref="char:EOLhyphen"/>merly left out the Liver, and made a paſte with the reſt compounded with Turnips: but I found in conclu<g ref="char:EOLhyphen"/>ſion Turnips of themſelves is the only food both for Cattel, Swine, and Poultry. <hi>Probatum eſt.</hi>
+               </p>
+               <p>The Swine being kept in an Or<g ref="char:EOLhyphen"/>chard conſtantly bearing, the ground will fructifie the Fruit-trees exceedingly, and make them yield great ſtore of fruit yearly larger than formerly, and they need no o<g ref="char:EOLhyphen"/>ther food than this Liquor, without the roots, or they may be kept up in a houſe with it conſtantly.</p>
+               <p>There was a Gentleman well known, that would cauſe his Ser<g ref="char:EOLhyphen"/>vants ſometimes to ſcatter on the
+<pb n="23" facs="tcp:115703:16"/>ground ſome ſmall ſtore of Tares, and the Swine by taking pains to get them would drink the oftner of the Liquor, and be fat the ſooner. I have known milch Cows kept con<g ref="char:EOLhyphen"/>ſtantly in a Yard, and never fed with any thing but Turnips, wherby a man might ſoon inrich himſelf, and having place convenient for Poultry, &amp;c. this may appear to be as thriving for them as corn.</p>
+               <p>Turnips likewiſe boyled and mingled with bran will feed Hun<g ref="char:EOLhyphen"/>ting dogs very highly without any other relief. About ſeven years ſince I cauſed a woman here in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> to buy a peck of meal, and to divide it into two parts, in the one, I adviſed her to put a peny-worth of Turnips boyled, and work it and knead it by it ſelf, and the two par<g ref="char:EOLhyphen"/>cels being baked, the Meal that had the Turuips in, that proved to be the better bread by far, and whiter, &amp; e<g ref="char:EOLhyphen"/>very way more pleaſant to the eye, &amp; more toothſom; it is in the judgement
+<pb n="25" facs="tcp:115703:17"/>of moſt Phyſicians very healthfull; beſides, it cuts far better than the other, and will laſt as long a<g ref="char:EOLhyphen"/>gain very moiſt, the parcel that had the Turnips in it was in weight above five pounds more than the o<g ref="char:EOLhyphen"/>ther, and what advantage might redound hereby to publique and private families it may eaſily re<g ref="char:EOLhyphen"/>ſult, when they may keep both Cattel, Swine, and Poultry, with little or no charge.</p>
+               <p>There is as much difference al<g ref="char:EOLhyphen"/>moſt in the roots as is in Apples, therefore care is to be had in the ſeed; there are thoſe which are cal<g ref="char:EOLhyphen"/>led <hi>Hackney</hi> Turnips, which far ex<g ref="char:EOLhyphen"/>ceed all other, eſpecially for bread, &amp; that ſeed may be had as cheap as the other; a paſte likewiſe might be made with turnips to continue long, which all Poultry would like very well of, and excellent Horſe-bread might be made of it, being other<g ref="char:EOLhyphen"/>wiſe uſed thereunto; all ſorts of Cattel and Poultry wil take ſuf<g ref="char:EOLhyphen"/>ficient
+<pb n="26" facs="tcp:115703:17"/>without further trou<g ref="char:EOLhyphen"/>ble, the paſte will be excellent uſefull food for Rabbits both in over-ſtored Warrens, and likewiſe when they are preſerved with other moiſt meats, as you may underſtand hereafter.</p>
+               <p>Turnips will afford two very good crops in one year, and the crops of them are worth to be ſold thirty pounds an acre, as will be confirmed: beſides, ſome ground they will in my knowledge afford a 3d. crop the ſame year, &amp; although the roots of the laſt crop come not to full maturity, yet the roots and leaves being ſuffered to grow thick<g ref="char:EOLhyphen"/>er without cutting, or pulling, will be better at the preſent than an acre of the beſt Graſs, and compaſs of ground where a ſheaf of Wheat doth grow which yieldeth a ſmall quantity of wheat, it will afford one hundred of Turnips, near two hun<g ref="char:EOLhyphen"/>dred, ſo that the profit of two crops thereof will far tranſcend the profit
+<pb n="27" facs="tcp:115703:18"/>of the wheat, and the charge of the wheat far greater ordinarily.</p>
+               <p>Turnips may be ſown in heathy ground at the firſt breaking up, and ſome have ſowed them immediatly after rye, flax, and eſpecially after peaſe.</p>
+               <p>With their tops, and Rape<g ref="char:EOLhyphen"/>cakes or Lynt-ſeed cakes, and grains you may make Pottage and wholeſome food for your Cows, which being warm they will eat ex<g ref="char:EOLhyphen"/>ceeding greedily, and by this means give milk in abundance, and for the ſame purpoſe the <hi>Holland</hi> Mer<g ref="char:EOLhyphen"/>chants did lately buy up all the Rape-ſeed here in <hi>England</hi> after the oyl was preſt out, and made up into great Cakes, which hath been a very great commodity in <hi>Holland;</hi> The roots and leaves being made very clean and ſtamped together, then boyled in water, and then gi<g ref="char:EOLhyphen"/>ven to the Cows may make them a<g ref="char:EOLhyphen"/>bound with Milk, and yet grow very fat, if they are kept up all the year.</p>
+               <pb n="28" facs="tcp:115703:18"/>
+               <p> A worthy Gentleman doth every year ſow a very large field with tur<g ref="char:EOLhyphen"/>nips, according to my directions, and in the middeſt thereof he cau<g ref="char:EOLhyphen"/>ſeth to be built a little ſleight ſhade or loppel with poles covered with ſtraw or ſome ſleight ſtuff on the top where he ties up his oxen, and other feeding Cattel, and giveth them the Turnips and the leaves cleanly waſhed, and with them only ſeed<g ref="char:EOLhyphen"/>eth his Cattel very fat to the Markets, he continueth the ſame courſe conſtantly every year, and preſerveth all his graſs for other uſes to his very great advan<g ref="char:EOLhyphen"/>tage.</p>
+               <p>Turnips alſo with ſome ſmall ad<g ref="char:EOLhyphen"/>dition will make very good Syder, and exceeding good Oyl hath been made thereof, which may be very advantagious and will prove no drug. <hi>Probatum est.</hi>
+               </p>
+               <p>You may boyl Barly chaff in the Liquor of Turnips, together with the Turnips and their leaves,
+<pb n="29" facs="tcp:115703:19"/>which makes it as feeding, and as fatning as any foood whatſoever; Rabbits may be kept with Turnip<g ref="char:EOLhyphen"/>bread or paſt of Turnips all the year, either in the fields or houſe, and better than with Turnips them<g ref="char:EOLhyphen"/>ſelves, being a moſt wholeſom food for them, and the roots and leaves will feed and preſerve ſheep to the higheſt condition, and the Calves which you ſhall breed up by hand with theſe Turnips, their leaves, with their Liquor, will be conſtant<g ref="char:EOLhyphen"/>ly fat, and will much exceed their breed in largeneſs, and with in<g ref="char:EOLhyphen"/>creaſe of Milk. Let your Turnips grow little leſs than half a foot di<g ref="char:EOLhyphen"/>ſtance, and leſs than ten quarts will ſow an acre.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="30" facs="tcp:115703:19"/>
+               <head>
+                  <hi>Chap. 4.</hi> Of Sow-Thiſtles.</head>
+               <p>ONe ſleight plowing and har<g ref="char:EOLhyphen"/>rowing, or but raiſing the round in the leaſt kind to have two crops in one year proportio<g ref="char:EOLhyphen"/>nably to the fruitfulleſt graſs, and ſo conſtantly every year with<g ref="char:EOLhyphen"/>out any further trouble, or charge at all, which is ſo wonderfully fruitfull for milch Cows that be<g ref="char:EOLhyphen"/>ſides
+<pb n="31" facs="tcp:115703:20"/>the double increaſe of milk, it is better than any other, for it will afford two ſcimmings of excellent cream, this exceeds all other for Cheeſe, and when all the Cream is taken off, the milk will be as good as any other milk; this ſeed will coſt nothing, and will ſow it felf after the firſt year, it will afford in ſeed above one thouſand for one; this is vulgarly called <hi>Sow-Thiſtle,</hi> it will yield great ſtore of ſeed, the firſt crop letting it grow a while longer for that purpoſe; it will be ripe very timely in the year, you may gather the ſeeds which may be ſowen preſently, and will af<g ref="char:EOLhyphen"/>ford a crop within a Month or a lit<g ref="char:EOLhyphen"/>tle more, and may be cut every month during Summer, if it be not prejudiced by cattel; you may ſow a ſmall parcel of ground therewith, preſerving that for ſeed that will ſerve your turn; it will grow upon any ordinary ground, and the oftner you cut it the thicker it will be, and
+<pb n="32" facs="tcp:115703:20"/>be very tender, and excellent fruit<g ref="char:EOLhyphen"/>full food; you may feed your Cat<g ref="char:EOLhyphen"/>tel therewith by parcels in Racks or Houſes, and maintain them all the Summer in the higheſt manner. It hath been obſerved formerly, that when Sows could not maintain their Pigs for want of milk, the Country people would find out theſe Sow-thiſtles which would ex<g ref="char:EOLhyphen"/>ceedingly advantage them for the increaſe of their Milk; and I have known the like performed by Rab<g ref="char:EOLhyphen"/>bits in a very ſtrange manner: whilſt the Thiſtles are young they willmaintain Calves, Lambs, Pigs, &amp;c. which you may wean, and raiſe to the higheſt perfection without any other food; when they be come old and ſeedy, Cattel will eat on<g ref="char:EOLhyphen"/>ly the tops, and therefore the oftner you cut themthemore uſe<g ref="char:EOLhyphen"/>full they are; when the down is up<g ref="char:EOLhyphen"/>on them ready to flye, then gather the ſeeds when the Sun is up, the ſeed being dry you may find ſuffici<g ref="char:EOLhyphen"/>ent
+<pb n="33" facs="tcp:115703:21"/>of them in Corn-fields &amp; upon Ditches where Cattel cannot come at them; the benefit might be made ſo great thereof, that the worth can<g ref="char:EOLhyphen"/>not be with brevity expreſt.</p>
+               <p>Sow up ſheets of Paper, and gather up the ſeeds into them, or ſome other ſuch way as may keep them from flying from you, and take hold of the knot and pull the ſeeds, and put them together, and when you ſow them mingle amongſt them mould as they are with the down, becauſe they can hardly be ſevered; thoſe Thiſt<g ref="char:EOLhyphen"/>les being planted in a barren ground, and given to Rabbits, would maintain millions of them, all the Summer, for want of graſs in the Warrens, Turnips and the paſte thereof all the Winter.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="33" facs="tcp:115703:21"/>
+               <head>
+                  <hi>Chap. 5.</hi> Of Clover-graſ.</head>
+               <p>ONe Sir <hi>Richard Weſton,</hi> hath a think between thirty and forty acres, about ten acres thereof he ſowed this year with Barly, which Barly being in cutting, and pro<g ref="char:EOLhyphen"/>ved ſo great, adjudged worth ten pound an acre, he feared it might hinder the Clover-graſs, not<g ref="char:EOLhyphen"/>notwithſtanding we viewing it nar<g ref="char:EOLhyphen"/>rowly
+<pb n="34" facs="tcp:115703:22"/>did perceive the graſs, much of it, as it were begining to look out of the ground, the which leaves were not bigger than an Onion, which yet Sir <hi>Richard</hi> was glad to ſee, he intends that nothing comes in that untill <hi>Michaelmas,</hi> and by that time he hopes eſpecially with a good ſhower, ſoon after the Bar<g ref="char:EOLhyphen"/>ly is taken off, it will cover the ground: the laſt year he ſowed two Fields, each about eight acres, one with Flanders ſeed, the other with his own in the Husks, the for<g ref="char:EOLhyphen"/>mer was ſo fair upon the ground at the felling in mid <hi>May</hi> laſt, that he proteſted he would not have taken ten pound for the ſeed only he ex<g ref="char:EOLhyphen"/>pected therefrom, nevertheleſs the Summers draught eſpecially ſoon after the cutting, before it could get head again to ſhade it ſelf, and the ground ſo ſcorchd it together, with his hopes, at length be reſolved to feed his Cattel with, and reſerve for ſeed the Cotten cloſe being colder &amp;
+<pb n="35" facs="tcp:115703:22"/>a moyſter ſoyl, and thereupon the better enduring the heat, which o<g ref="char:EOLhyphen"/>therwiſe he made far leſs eſteem of, becauſe it came up unevenly or in Banks like Mr. <hi>Houghtons,</hi> or rather worſe, which I conceive was to be attributed partly to the wetneſs, but perhaps chiefly the ſeeds in the Husks, which could not be but une<g ref="char:EOLhyphen"/>qual experience, ſhewing that ſome of the Husks are empty, others full; Sir <hi>Richard</hi> himſelf told me, that he had found eight ſcore ſeeds as I remember he ſaid, or at leaſt eighty I am ſure he ſaid, in one head, and then he reſolved to cut it, and becauſe hay is dear in thoſe parts this year, near three pound a load, Sir <hi>Richard</hi> told me he ſold it near that rate one hundred and fifty Loads of his extraordina<g ref="char:EOLhyphen"/>ry hay, which his meadows water<g ref="char:EOLhyphen"/>ed with his new River, and thereby continuing the draught did yield he intends to get off the head of the graſs, as he doth thoſe of the Flax, and dry them in the Sun to
+<pb n="36" facs="tcp:115703:23"/>get out the ſeed more eaſily, and withall to ſave his hay: for he ſays that when once he can get ſuffici<g ref="char:EOLhyphen"/>ent ſeed of his own, he ſhall then, and not before then be Maſter of the work, for he ſuſpects ſophiſticati<g ref="char:EOLhyphen"/>on of the out-landiſh ſeed, that it is mixed with old, and ſome not fully ripe baked in Ovens, the eaſier to make it unhusk it ſelf; for the manner of ſowing of it he having experimented divers wayes finds the beſt peece that ever he had to be ſowed alone without any o<g ref="char:EOLhyphen"/>ther grain for the time, the begin<g ref="char:EOLhyphen"/>ning of the mid <hi>April</hi> is the beſt, and therefore he would advice Mr. <hi>Houghton</hi> not to venture his Sum<g ref="char:EOLhyphen"/>mer fallow at Autumn, unleſs it be a little quantity to make experi<g ref="char:EOLhyphen"/>ment; beſides, he did much diſap<g ref="char:EOLhyphen"/>prove the laying ſheep upon it two or three nights, as he intended to do laſt <hi>May</hi> as ſoon as it was cut, be<g ref="char:EOLhyphen"/>cauſe it would prove a hinderance to the next crop, which with a
+<pb n="37" facs="tcp:115703:23"/>ſhower would (as he ſays) in ſix days grow half a foot high, for the quan<g ref="char:EOLhyphen"/>tity of the hay it yielded two load and an half on an acre at a ſelling rate, for the nature of the ground that is moſt proper for it, which will bear little other graſs; To conclude, he findeth that the graſs improves the ground, for he hath this year ex<g ref="char:EOLhyphen"/>ceeding great buck Wheat upon a piece of heathy ground, not one ſhilling the acre before, which hath been Clove graſs three years, for flax, he ſaid, that requires a dry ſoyl, &amp;c. Laſtly, he ſaith that at St. Foyn it is exceeding profitable, and may be cut ſeven or eight times in a year, but that it requires a very rich Land, and muſt not be fed at all; And now I hope that my faithfull deſires to relate fully all that I had learned in this will plead excuſe for me.</p>
+               <div type="part">
+                  <pb n="38" facs="tcp:115703:24"/>
+                  <head>Concerning Eſperate or Clover-graſs.</head>
+                  <p>THe Country where Eſperate or Clovergraſs is moſt in uſe at this day is <hi>Daphine</hi> towards the quarter of <hi>Day;</hi> It is a graſs very hardy, not much inferionr to <hi>Luceran,</hi> it ren<g ref="char:EOLhyphen"/>ders abundance of very exquiſite hay very great ſubſtantial and much de<g ref="char:EOLhyphen"/>ſired, proper to nouriſh and fatten all ſorts of four footed Beaſts, young and old Lambs, and Calves, making their Dams exceedingly to abound with milk, it alſo produceth ſeed every year, that ſerveth the Cattel inſtead of Oats, and fat<g ref="char:EOLhyphen"/>tens Poultry, it makes them to prove and quickly to lay egges, it will grow in a poor ſandy Land, and it leaves a certain fatning vertue in it for the profit of Corn being ſown after it, which makes it more in requeſt, it deſires not watering,
+<pb n="39" facs="tcp:115703:24"/>it fears the biting of the Beaſts, the delicacy of it draws them in ſuch am anner that having once taſted of it they will go three leagues to feed of it, if it be not well incloſed; the hay of this graſs is little higher than two foot, but it is ſo much the thicker, it is cut three times a year, provided that the place agree with it, and that the graſs be noteaten with beaſts, the firſt time is at the end of <hi>March,</hi> the ſecond towards <hi>Ju<g ref="char:EOLhyphen"/>ly,</hi> the laſt about the midle of <hi>Septem<g ref="char:EOLhyphen"/>ber;</hi> the hay of the firſt cuts not ſo great as the ſecond, becauſe that in this place it produceth ſeeds, and by conſequence it groweth bigger, this being cut, the ſeed is taken up like Oats, and then is thruſt toge<g ref="char:EOLhyphen"/>ther with the firſt, expecting the laſt, that theſe three mingled toge<g ref="char:EOLhyphen"/>may ſerve for profitable proviſion for the beaſts all the year; a Ma<g ref="char:EOLhyphen"/>ſter of a Family may be well advi<g ref="char:EOLhyphen"/>ſed to uſe this Husbandry, conſide<g ref="char:EOLhyphen"/>ring the notable profit which will
+<pb n="40" facs="tcp:115703:25"/>come to him thereby in regard of the Hay, the Oats, and the graſs of the Field, he will find the ſeed of this exquiſite paſture, is a thing one may well ſend to enquire after in <hi>Daphine</hi> although it be as far al<g ref="char:EOLhyphen"/>moſt as the utmoſt of <hi>France,</hi> with<g ref="char:EOLhyphen"/>out fear of introducing a novelty, ſeeing theſe will ſo exceedingly countenance his labour, which principally he doth regard, aſſuring himſelf that in what part ſoever of theſe three Countries he ſhall re<g ref="char:EOLhyphen"/>main, this graſs will profit him, for its faculty, to grow neverthe<g ref="char:EOLhyphen"/>leſs in a temperate air than in a hot, and in a land more light than hea<g ref="char:EOLhyphen"/>vy; and to effect this buſineſs (I give you notice) that this ſeed of Clover-graſs is ſold commonly at the double price of Oats; to plant it muſt be appointed for ſome acres of Land; choſen as aforeſaid, not ſtony, becauſe of cutting of the graſs, then it muſt be in a place commodiouſly incloſed, for the rea<g ref="char:EOLhyphen"/>ſons
+<pb n="41" facs="tcp:115703:25"/>aforeſaid, and after that he hath well, and to the purpoſe la<g ref="char:EOLhyphen"/>boured the land during Winter, the Spring approaching, at the end of <hi>February,</hi> or the beginning of <hi>March,</hi> he ſhall ſow the ſeeds, but very thick, it being neceſſary four times more of that than of wheat, that it may grow to cover all the ground with the graſs, without lea<g ref="char:EOLhyphen"/>ving place for any malignant graſs, which may come to grow there, to its detriment; the flower of the land muſt be well plowed, like a meadow, ſo that without hinde<g ref="char:EOLhyphen"/>rance the Sythe may go up and down freely; the firſt year, this graſs makes no great increaſe, being al<g ref="char:EOLhyphen"/>moſt wholly imployed to take hold and ſtrengthen it ſelf, but the three years following it recompenceth the ſlackneſs, producing abundance of good hay, alſo all the time it ſtays in the ground it imyloys all the mea<g ref="char:cmbAbbrStroke">̄</g>s to be profitable unto it, (which in times paſt) it comes to nothing,
+<pb n="42" facs="tcp:115703:26"/>for which cauſe, the place where the Clover-graſs grows is then conver<g ref="char:EOLhyphen"/>ted into tillage, and by that means the ground being deep plowed pro<g ref="char:EOLhyphen"/>duce very fair Winter and Summer corn, for three or four years. And for that you ſhall be accommodated with ſuch good paſture, and fair corn with it, you ſhould manage this Husbandry ſo, that you ſhould alwaies have new and old Clover-graſs, to make ſome ſerve for hay, and other for corn, whereby you can neither want for one nor the o<g ref="char:EOLhyphen"/>ther. <hi>Probatum eſt.</hi>
+                  </p>
+                  <div type="section">
+                     <head>The ſecond Experiment.</head>
+                     <p>Firſt ſow Flax, then a crop of Turnips, and after about <hi>April</hi> fol<g ref="char:EOLhyphen"/>lowing, you may ſow the ground with Oats, and upon Clover-graſs ſeeds, only harrowing it with Buſh<g ref="char:EOLhyphen"/>es or buſhed harrows, which will come up after the Oats are mow<g ref="char:EOLhyphen"/>ed, and will yield you a very great
+<pb n="43" facs="tcp:115703:26"/>paſture till <hi>Christmas,</hi> and the next year following you may cut the graſs three times, and it will every year bear ſuch burden, and ſo good, to feed all the ſorts of Cattel, that the beſt meadows do not yield the like, ſo it will continue four or five years together without ſowing it. <hi>Probatum eſt.</hi>
+                     </p>
+                     <p>One acre of Clover-graſs, being made part into hay, and the reſt ea<g ref="char:EOLhyphen"/>ten green, will keep four Cows winter and ſummer, and one acre laid for ſeed, might carry five buſhels, and I am confident that here are thouſands in <hi>England</hi> would give five ſhillings the pound for ſuch as grow here in this Nati<g ref="char:EOLhyphen"/>on, being indeed the very beſt.</p>
+                     <p>The hay of an acre, is about ſeven loads and one half, no man will ſell for ſix pound, ſix ſhillings, and eight pence the load.</p>
+                     <p>Beſides the after paſture in the Summer, mow the Clover-graſs, and give it the Cattel by parcels.
+<pb n="44" facs="tcp:115703:27"/>One Mr. <hi>Bromley</hi> a Miniſter did aſ<g ref="char:EOLhyphen"/>ſure me that he lately knew a very large field of Clover-graſs, which grew naturally in <hi>Gloceſter</hi> ſhire, and was yearly very much advantageous to the owner thereof.</p>
+                     <p>When the ground is laid down it will fatten Cattel, and feed them very luſty, and fit for the Butcher in a ſhort time, eſpecially Sheep; the ſeed may be provided and ſow<g ref="char:EOLhyphen"/>ed, and will thrive in moſt grounds being exceeding ſweet and pleaſant will very much advantage paſture grounds, and raiſe to great improve<g ref="char:EOLhyphen"/>ment.</p>
+                     <p>There is a Gentleman in <hi>Eſſex</hi> who makes great ſtore of Soap with the Aſhes thereof, ſpread upon baſe baren ground, and hath many acres thereof wonderfully rich with the beſt and ſweeteſt Tree-ſoyl, the like was never ſeen in <hi>England</hi> upon any ground, chiefly downs, being com<g ref="char:EOLhyphen"/>monly reputed moſt proper for ſuch graſs, the Ashes being formerly of
+<pb n="45" facs="tcp:115703:27"/>ſo baſe an eſteem, that they would have given mony for the carrying them away out of the Country.</p>
+                     <p>There is a ſtrange kind of Graſs growing in <hi>Wilt</hi>-shire with which they fat hogs, being four and twen<g ref="char:EOLhyphen"/>ty foot long, if the ſeed of this graſs were ſown in other rich and fertile meadows, that would thrive and proſper as well as where I ſaw it grow, it is of a very great conſe<g ref="char:EOLhyphen"/>quence, and may be ſo well appro<g ref="char:EOLhyphen"/>ved of by thoſe that shall make try<g ref="char:EOLhyphen"/>al thereof.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="48" facs="tcp:115703:28"/>
+               <head>
+                  <hi>Chap. 6.</hi> Of Potatoes.</head>
+               <p>THe like benefit as with Turnips may be made of <hi>Potatoes,</hi> which uſually grow here in <hi>England,</hi> they will encreaſe exceedingly, &amp; are ex<g ref="char:EOLhyphen"/>cellent food ſeveral waies, they will make very good bread, cakes, paſte, and Pyes, and both cruſt without and food within; they will hardly be deſtroyed but increaſe of themſelves in a very plentifull manner, with very little labour; they will like<g ref="char:EOLhyphen"/>wiſe
+<pb n="47" facs="tcp:115703:28"/>grow and thrive very well, be<g ref="char:EOLhyphen"/>ing cut in ſlices, and ſo put into the earth, and the very threds comming from the roots will increaſe to great roots.</p>
+               <p>The like benefit may be made for Poultry and Swine, of Arti<g ref="char:EOLhyphen"/>choaks <hi>Jeruſalem.</hi>
+               </p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="48" facs="tcp:115703:29"/>
+               <head>
+                  <hi>Chap. 7.</hi> Of Pumpions.</head>
+               <p>THe next are <hi>Pumpions,</hi> which may be occaſioned to grow in the coarſeſt ground, even all ſtone in a manner, as followeth.</p>
+               <p>Firſt make ſeveral holes, a foot and a half one from an other, and fill either hole about the bigneſs of a peck with mold that you may get from hedge-rows, mixed with a
+<pb n="51" facs="tcp:115703:29"/>little good muck purpoſely prepa<g ref="char:EOLhyphen"/>red, or with Cow-dung, you may cut up the Mole-hils within the neighbouring grounds, ſowing the places again with hay ſeeds or tree<g ref="char:EOLhyphen"/>foyl ſeeds, then plant in one of the holes being well tempered with muck, mold, or ſome of the beſt compoſed muck, ſome three Pompi<g ref="char:EOLhyphen"/>on ſeeds, you need not care for the ſeed the firſt year, for they will af<g ref="char:EOLhyphen"/>terwards be plentifull enough, and ſuffer one of the beſt to continue growing, the reſt pull up and plant them in hedge-rows, or caſt them away; And this manner you may (if you pleaſe) diſpoſe of an acre of ground or more at the firſt, which in all likelihood may produce ſome four large Pumpions, on a plant, the reſt may be cut off being newly planted, with the ſuperfinous bran<g ref="char:EOLhyphen"/>ches, and the other will grow the bigger, and in all probability will amount to at vendible rates 30 and 40 pound <hi>per</hi> acre, and will ſell dea<g ref="char:EOLhyphen"/>rer
+<pb n="52" facs="tcp:115703:30"/>in the Country than near <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and if not ſold they will (with the greater advantage) ſerve for Poultry, Swine, and Cattel, being boyled and uſed as Turnips, which may accordingly be contriv'd into paſte, as before ſpecified, with more advantage for feeding than with the beſt graſs or corn, and whereas I have known dry grounds that have been ſo barren, that they would bear no graſs, at all, in compari<g ref="char:EOLhyphen"/>ſon, yet being laid all the year long uſed, and no Cattel turned therein, that little graſs that was rotting upon the ground, and the ſeed ſhedding thereon hath afford<g ref="char:EOLhyphen"/>ed the years following very good graſs, &amp; admitting the ground wher the Pompions grow are very poor, yet the graſs being ſuffered to grow, though but little, the Pumpion leaves ſhadowing the ground, and keeping it cool in hot weather, and warm in cool ſeaſons, a year or two, eſpecially with the help of the Muck water.</p>
+               <pb n="53" facs="tcp:115703:30"/>
+               <p> Yet ſuch ſoyls the ground will afford very good graſs, and the ſeeds of the Pumpions, being ſhif<g ref="char:EOLhyphen"/>ted into new holes, will improve the baſeſt ground whatſoever to great perfection. You may likewiſe uſe the Root of the Pumpions, which will occaſion them to be as large again as otherwiſe.</p>
+               <p>You may cauſe a large bed to be made of rich mold, &amp;c. whereby you may plant great ſtore of Pum<g ref="char:EOLhyphen"/>pion ſeeds, and then tranſplant them according to your uttermoſt accommodation, but by all means they muſt be well watered with the muck water, of the fatteſt ſort as followeth hereafter.</p>
+               <p>Suffer but two or three main run<g ref="char:EOLhyphen"/>ners, according to diſcretion, and cut off the reſt of the branches, a<g ref="char:EOLhyphen"/>bout the time they begin to flower, carefully preſerving the other main runners from prejudice.</p>
+               <p>In like manner may be planted Cabbages, which will afford the
+<pb n="54" facs="tcp:115703:31"/>like profit upon ſuch kind of ground, and although they may af<g ref="char:EOLhyphen"/>ford a great benefit by the ſale ther<g ref="char:EOLhyphen"/>of yet they will be leſs trouble and more advantagious, for feeding of Cattel, eſpecially thoſe that give milk, which will make them excee<g ref="char:EOLhyphen"/>dingly abound therewith, and one acre of ground ſo planted will be far better than an acre of hay, and the ground much benefited thereby, af<g ref="char:EOLhyphen"/>ter the Cabbages are cut up, there will be a crop of Coleworts, &amp;c.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="55" facs="tcp:115703:31"/>
+               <head>
+                  <hi>Chap. 8.</hi> Of the <hi>Roman</hi> Bean and Liquoriſh.</head>
+               <p>THere is a Grain called by ſome the <hi>Roman Bean,</hi> which are excel<g ref="char:EOLhyphen"/>lent for Horſes, Dogs, Poultry, and Swine, and will as is made apparent beyond contradiction afford above one hundred pound <hi>per</hi> acre benefit, as they may be ordered.</p>
+               <p>They are to be ſet once, and they will continue four years after exceedingly, without the uſe of
+<pb n="56" facs="tcp:115703:32"/>muck, this Grain is indeed the grea<g ref="char:EOLhyphen"/>teſt advantage that ever was heard of, conſidering the little charge and trouble; I dare not profeſs the won<g ref="char:EOLhyphen"/>derfull increaſe they will afford, being rightly uſed, what benefit may be made thereof, I leave it to judge<g ref="char:EOLhyphen"/>ment, when if five hundred acres were planted therewith they might be all ſold.</p>
+               <p>There is a Gentleman in <hi>London,</hi> that hath found out a new way for the planting of Liquoriſh, which grows naturally in many places of <hi>England,</hi> and whereas formerly contrary to judgement of thoſe that planted it, uſed to dig the ground very deep, even into the cruſt of earth, and then planted the Liquo<g ref="char:EOLhyphen"/>riſh downwards, and too deep; This Gentleman hath cauſed his Ground not to be mucked, nor to be uſed, therefore had that been muck<g ref="char:EOLhyphen"/>ed formerly, and the roots placed ſide-waies, not perpendicularly, but above the cruſt of the earth, which
+<pb n="57" facs="tcp:115703:32"/>by that means will run a very great length, and grow with greater roots by far than o<g ref="char:EOLhyphen"/>therwiſe, inſomuch that the Gen<g ref="char:EOLhyphen"/>tlemans Servant hath obſerved, for five acres of Liquoriſh to make two hundred pound an a<g ref="char:EOLhyphen"/>cre; Beſides there was a crop of Onions growing upon the five a<g ref="char:EOLhyphen"/>cres of Liquoriſh, for which there was offered twenty pound an acre; half thereof being for<g ref="char:EOLhyphen"/>merly pick'd out and ſold for at leaſt twenty pound more, and this may be confirmed for a truth at any time, ſo that there is but one year of three void of profit; and ſome benefit may be made that year.</p>
+               <p>This with the <hi>Roman</hi> Bean would be excellent commodities in di<g ref="char:EOLhyphen"/>vers Countries, in regard of the conveniency by water, they be<g ref="char:EOLhyphen"/>ing no Drugg, at all times ven<g ref="char:EOLhyphen"/>dible, and the ground much ad<g ref="char:EOLhyphen"/>vanced
+<pb n="58" facs="tcp:115703:33"/>thereby for other uſes, which may be done in a mere dry and warm ſand, &amp;c. this to be con<g ref="char:EOLhyphen"/>firmed to an hundred pound <hi>per annum.</hi>
+               </p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="59" facs="tcp:115703:33"/>
+               <head>
+                  <hi>Chap. 9.</hi> Of Saffron.</head>
+               <p>THere are grounds (in my know<g ref="char:EOLhyphen"/>ledge) in moſt parts of <hi>England,</hi> where Saffron will grow, being rightly prepared, as well as in any place, and once having the roots which may eaſily be gotten, and as cheap as the other ſeeds, and plants, you will ever after abound therewith, and they will render very great profit, with very little
+<pb n="60" facs="tcp:115703:34"/>charge, and much inrich the ground for corn after them ſeveral years, for the planting and diſpoſing of them, you may have ſufficient di<g ref="char:EOLhyphen"/>rections at pleaſure, and ſo for the other defects, better Saffron grow<g ref="char:EOLhyphen"/>eth not in the world than here in <hi>England,</hi> being worth forty pound an acre skilfully and carefully plan<g ref="char:EOLhyphen"/>ted, that will laſt ſeveral years, and afford divers crops every year, and muſt be gathered every morning for a months ſpace.</p>
+               <p>A worthy Gentleman in whoſe Garden had been planted ſome Saf<g ref="char:EOLhyphen"/>fron roots for ornament ſake, and the rather, becauſe the flowers were very ſweet, of various colours, and very pleaſant to the eye, they did exceedingly increaſe on the ground, that the Gardner could by no means deſtroy them although with great diligence they weeded them up con<g ref="char:EOLhyphen"/>ſtantly when they dreſt and renew<g ref="char:EOLhyphen"/>ed their Garden, yet do what they could they would grow there ſtill;
+<pb n="61" facs="tcp:115703:34"/>at laſt as they drew them up ſtill, ſet them in ſome remote places in the Garden, being ground very much neglected, where they pro<g ref="char:EOLhyphen"/>ſpered ſo well, that it is to be ad<g ref="char:EOLhyphen"/>mired what benefit ſo little ground did afford, which was a mere ſand, as is to be found in moſt Shires in <hi>England,</hi> only the ground having been formerly baren, I adviſed the Gentleman, he having Com<g ref="char:EOLhyphen"/>mons of ſuch kind of ground hardly worth one ſhilling an acre, and ſe<g ref="char:EOLhyphen"/>veral other waſte ground, with great convenience, of water, &amp;c. to compoſe ſome kind of ſoyl, as I inſtance in my diſcourſe following of muck, and mingled earth, and to lay it a foot thick on the worſt part, of his barren ground he might in the eaſieſt manner con<g ref="char:EOLhyphen"/>contrive a thouſand loads in a year &amp; thereby queſtionleſs have divers acres of the beſt ſort of Saffron; and this ſoyl will ſo fertilize the waſte ground under it with the addition
+<pb n="62" facs="tcp:115703:35"/>of the muck water in caſe of dry weather, that the lands will be fit for any advantagious uſes whatſoe<g ref="char:EOLhyphen"/>ver, &amp;c. <hi>Probatum est.</hi>
+               </p>
+               <div type="observation">
+                  <head>Obſerv. <hi>1.</hi>
+                  </head>
+                  <p>
+                     <hi>Item French</hi> Peaſe will yield thir<g ref="char:EOLhyphen"/>ty pound <hi>per</hi> acre, charge little, and much inrich the ground for corn afterwards they have been known afford five hundred for one.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſerv. <hi>2.</hi>
+                  </head>
+                  <p>Muſtard ſeed thirty pound an a<g ref="char:EOLhyphen"/>cre <hi>de claro,</hi> and will afford very good crops, for ſeveral years with<g ref="char:EOLhyphen"/>out replanting upon ordinary ground, and will thrive very well upon Ditches newly caſt up.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſerv. <hi>3.</hi>
+                  </head>
+                  <p>Taſſels for Cloath-workers, a<g ref="char:EOLhyphen"/>bout thirty pound an acre <hi>de claro,</hi>
+                     <pb n="63" facs="tcp:115703:35"/>and will thrive and prove very well here in <hi>England,</hi> and very uſefull, being rightly planted, and with the beſt ſeed.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſerv. <hi>4.</hi>
+                  </head>
+                  <p>Madder for dying for the Apo<g ref="char:EOLhyphen"/>thecary worth 7 <hi>d. per</hi> pound, &amp; will grow very thick on the ground and advance five pound an acre and up<g ref="char:EOLhyphen"/>wards <hi>de claro,</hi> it will thrive beſt in ſandy ground as the other, and is conſtanly vendible at high rates.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſerv. <hi>5.</hi>
+                  </head>
+                  <p>Oſiars above twenty pound an acre on wet ground, without trou<g ref="char:EOLhyphen"/>ble or charge, after the firſt plant<g ref="char:EOLhyphen"/>ing, and when there are ſtore of them there will be no want of Ma<g ref="char:EOLhyphen"/>nufactorr, for thither they will que<g ref="char:EOLhyphen"/>ſtionleſs reſort and inhabit.</p>
+               </div>
+               <div type="observation">
+                  <pb n="64" facs="tcp:115703:36"/>
+                  <head>Obſerv. <hi>6.</hi>
+                  </head>
+                  <p>There is a Tree called the <hi>Abel,</hi> there being none of the Plants to be had, unleſs they be ſent for out of <hi>France,</hi> but in one place in <hi>England,</hi> thirty pounds being laid out about theſe plants will render at the leaſt ten thouſand pound at eighten years, and without any other charge, trouble, or impairing, the Graſs in the field where they grow: This is confirmed by an Honorable Knight here in <hi>London,</hi> every Tree of them, ſo being rightly planted, will afford in a ſhort time thirty plants, and every one of theſe thir<g ref="char:EOLhyphen"/>ty will afford thirty more, and theſe Trees are at their full growth in twenty years, and after ſeven years growth improveth every year twelve pence, untill the time is up, it groweth very ſtreight, and
+<pb n="65" facs="tcp:115703:36"/>is moſt comely either in the Fields or walks, this Timber hardly hath its parallel, for all ſorts of wodden Veſſels, as Trayes, Bowls, &amp;c. and ſo likewiſe for Carts, it being exceedingly light, very tall in growth, and a very white wood.</p>
+                  <p>The manner of the planting them I ſhall hereafter more at large diſcover, with the conditi<g ref="char:EOLhyphen"/>on of the ſoyl where they are to be planted, their uſual diſtance one from another, under ten foot, you may likewiſe provide <hi>French</hi> furze ſeeds, and ſow them amongſt theſe Trees, where there is want of ſuch fewell, they will grow very faſt and bigge in a ſhort time, with great ſtock'd bodies, and will ſoon ſpread their tops, and become very large and high, far tranſcending our <hi>Engliſh</hi> Furze, and theſe, together with the other Trees, will afford a conſiderable profit, and this place may like<g ref="char:EOLhyphen"/>wiſe
+<pb n="66" facs="tcp:115703:37"/>be very much for pleaſure, and very profitable for the ſhel<g ref="char:EOLhyphen"/>tering of Pheaſants and other Fowls.</p>
+               </div>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="67" facs="tcp:115703:37"/>
+               <head>
+                  <hi>Chap. 10.</hi> To illustrate the profit of Ground, by planting of Woods.</head>
+               <p>I Knew a Gentleman that ſet an Aſh-tree before his Houſe, which forty years after he was offered for it thirty pounds, and it is certainly to be proved, that a Gentleman in <hi>Holland</hi> ſold five hundred Aſhes at fifty years groweth at a far higher
+<pb n="68" facs="tcp:115703:38"/>rate, and that another man in the ſame Country planted ſo much wood inhis life time for the which he was offered fifty thouſand pound.</p>
+               <p>There is a Gentleman now li<g ref="char:EOLhyphen"/>ving in <hi>Eſſex</hi> that can lop off his own ground two thouſand Willows e<g ref="char:EOLhyphen"/>very year out of the number he for<g ref="char:EOLhyphen"/>merly planted. His improvements of grounds for Orchards twenty pound an acre <hi>per annum,</hi> twenty a<g ref="char:EOLhyphen"/>cres four hundred pound.</p>
+               <p>A Gentleman in <hi>Kent,</hi> beſides the great benefit he converteth the ground to otherwiſe, advanceth to himſelf yearly for Cherries and o<g ref="char:EOLhyphen"/>ther fruit of his own planting at leaſt five hundred pounds.</p>
+               <div type="observation">
+                  <head>Certain Obſervations.</head>
+                  <p>There is a Knight now living in <hi>England</hi> that got a thouſand pounds <hi>per annum</hi> by planting Car<g ref="char:EOLhyphen"/>rets in a mere ſandy ground.</p>
+                  <p n="2">
+                     <pb n="69" facs="tcp:115703:38"/> 2. There are divers in <hi>London</hi> that will give thirty pound an a<g ref="char:EOLhyphen"/>cre to ſowe Clove Gilly flowers, and ſo for many years. I eſpecially by means of the Muck water, and the muck, the like benefit made <hi>per annum</hi> of red Roses.</p>
+                  <p n="3">3. There are about <hi>London</hi> that do make two hundred pound an acre by gardening, and exceeding great profit may be made there<g ref="char:EOLhyphen"/>by in moſt places of <hi>England,</hi> which may be performed, only an experienced Gardner of <hi>London</hi> told me they uſually fat their Cows and Swine with the offal of Gardening<g ref="char:EOLhyphen"/>ſtuff</p>
+               </div>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="70" facs="tcp:115703:39"/>
+               <head>
+                  <hi>Chap. 11.</hi> To preſerve Horſes in a very good Condition without hay.</head>
+               <p>AN honorable Knight in <hi>Kent,</hi> and a Doctor there of fifteen hundred pound <hi>per annum,</hi> have not given their Horſes any hay theſe twelve years, but only chopt ſtraw, cut ſmall, with ſuch a Knife as they
+<pb n="71" facs="tcp:115703:39"/>cut hay withall, they mingle with a handfull of Oats, half a peck of this Straw ſo cut, and put into the Manger, ſeveral times in the day, and let them drink often, and in this manner they uſe all their Horſes both that work and travel; you may put in the paſte of Turnips inſtead of the Oats, which being uſed there<g ref="char:EOLhyphen"/>unto will do as well and better, and ſatisfie all expectations with very great ſucceſs, without any additional food; cut, chop, and ſhred all your Furſ-tops, and give them to your Horſes, and they will exceedingly thrive therewith, this I received from the greateſt Lord of <hi>Scotland,</hi> which was the continual cuſtom of his Servants.</p>
+               <p>
+                  <hi>Item</hi> a Gentleman traveling much, when others gave their Horſes that travelled at the leaſt half a peck of Oats, he gave his Horſe but one half penyworth of Carrets, where he could have them.
+<pb n="72" facs="tcp:115703:40"/>I have know the like increaſe with Turnips, no food exceeding them for health and feeding.</p>
+               <p>In <hi>Kent</hi> and <hi>Hurtford-ſhire</hi> they u<g ref="char:EOLhyphen"/>ſual cut all their Oats and Peaſe ſmall, and give them their Horſes, with chaff or cut ſtraw; by which means they eat up all and thrive ex<g ref="char:EOLhyphen"/>ceedingly therewith, and feed ther<g ref="char:EOLhyphen"/>on the more greedily.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="73" facs="tcp:115703:40"/>
+               <head>
+                  <hi>Chap. 12.</hi> Of Hops.</head>
+               <p>OUt of a ſmall plot of ground, ſcarce an acre and an half, a Gentleman got by Hops in one year at leaſt one hundred and eightie pound.</p>
+               <p>A worthy Friend of mine, out of leſs than a quarter of an acre of Ground received hately for Hops in one year ten pound, and for ſeveral years beſides; which ground in my
+<pb n="47" facs="tcp:115703:41"/>knowledge was very much neglect<g ref="char:EOLhyphen"/>ed, otherwaies would have return<g ref="char:EOLhyphen"/>ed many more, being they ſtood much protected from the Nothern winds.</p>
+               <p>The laſt year a Gentleman expe<g ref="char:EOLhyphen"/>rienced, uſed Muck-water, by wa<g ref="char:EOLhyphen"/>tering his Hops therewith, only at the very roots, whereby he had a return beyond expectation, and is reſolved thereupon to take in more grounds for that purpoſe; the im<g ref="char:EOLhyphen"/>provement that may happen there<g ref="char:EOLhyphen"/>by cannot in any rational mans judgement, but be exceeding great, being the liquor doth exceed your ordinary muck.</p>
+               <p>He likewiſe planted upon the Hop-hills divers ſeeds of Pumpions, the running branches thereof being turned into the paths with ſticks, and cauſing the ſuperfluous bran<g ref="char:EOLhyphen"/>ches to be cut off, leaving only about three of them that were well knot<g ref="char:EOLhyphen"/>ted; he made a double benefit there<g ref="char:EOLhyphen"/>by, part whereof was ſold at good
+<pb n="75" facs="tcp:115703:41"/>rates, the reſt were boyled in the manner of Turnips, &amp; he cauſed his Cattel &amp; Swine to be ſed therwith, to his great advantage, ſo with theſe and with Turnips, he boyled all the Barly chaff he could get, which made the Liquor the thicker, and proved more commodious to his Cattel, and ſometimes when bran was to be had at reaſonable rate, he cauſed it to be boyled ther<g ref="char:EOLhyphen"/>in, otherwiſe the Liquor was only uſed.</p>
+               <p>The uſual way of keeping the roots of his Pumpion plants, was to get all the pieces of Pots, Diſhes, and old Veſſels, that would hold Water, and filling them with the former Liquor, he cauſed the end of an old rotten liſt or rag to be put into the Veſſel, and the other end unto the Pumpion plant; which would deſcend unto the root, and the Liquor being thereby dreyned out of the old Veſſels they were ſea<g ref="char:EOLhyphen"/>ſonably repleniſh'd, from which
+<pb n="76" facs="tcp:115703:42"/>occaſion he had the faireſt Pumpi<g ref="char:EOLhyphen"/>ons that ever were beheld, and the Hops wonderfully improved there<g ref="char:EOLhyphen"/>by: he had alſo by vertue of this Liquor white Straw-berries, <hi>ſix in<g ref="char:EOLhyphen"/>ches compaſs,</hi> which may at any time be atteſted, and ſuch kind of roots, and Gardening-ſtuff, that the like for the generality was never ſeen before.</p>
+            </div>
+            <div n="13" type="chapter">
+               <pb n="77" facs="tcp:115703:42"/>
+               <head>
+                  <hi>Chap. 13.</hi> Of Flax.</head>
+               <p>FLax will yield thirty or forty pound an acre, ſandy, baren, and heathy ground is beſt for it, and after Flax, Turnips, one acre of good Flax accounted worth three or four acres of the beſt Wheat, and the Liquor hath much advanced the goodneſs thereof.</p>
+               <p>The beſt time for the ſowing ther<g ref="char:EOLhyphen"/>of is about the beginning of <hi>April,</hi>
+                  <pb n="78" facs="tcp:115703:43"/>preſently after a ſhower of rain, which may abundantly be ſupply<g ref="char:EOLhyphen"/>ed by the Engine, and Muck-wa<g ref="char:EOLhyphen"/>ter following; ſome do uſually ſowe Flax untill the end of <hi>May,</hi> and ſome after.</p>
+               <div type="observation">
+                  <head>Obſerv. 1. <hi>Of Bees.</hi>
+                  </head>
+                  <p>There are divers places in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> that would maintain one hun<g ref="char:EOLhyphen"/>dred hives of Bees, without provi<g ref="char:EOLhyphen"/>ding conveniency of food for them, and it was an eaſiy thing to get five hundred pound <hi>per annum</hi> by Bees in places convenient.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſerv. 2.</head>
+                  <p>To make trees bear much and ex<g ref="char:EOLhyphen"/>cellent fruit, and to advantage them in their growth half in half, is on<g ref="char:EOLhyphen"/>ly by the ſcaſonable application of the Muck-water, and the water fol<g ref="char:EOLhyphen"/>lowing for worms.</p>
+               </div>
+               <div type="observation">
+                  <pb n="79" facs="tcp:115703:43"/>
+                  <head>
+                     <hi>Obſerv. 3.</hi> A way how to recover an old Tree.</head>
+                  <p>When a tree is ſpent and hath done bearing, under-prop it ſo as that it may be ſtedfaſtly ſupported that the body may not ſink, then take away the earth under the roots, and adde thereunto good rich Mould to the empty places, or your beſt mixed earth, with the Muck-water, and you ſhall perceive the tree to revive again, flouriſh, proſ<g ref="char:EOLhyphen"/>per, and bear fruit more plentiful<g ref="char:EOLhyphen"/>ly than ever it did, ſo may you do with a tree that is fallen down.</p>
+               </div>
+               <div type="observation">
+                  <head>
+                     <hi>Obſerv. 4.</hi> To make barren Trees bear much, and exceeding good fruit.</head>
+                  <p>Firſt ſplit the root of an old tree, and adde thereunto Pingeons dung, Lees of Wine <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> and a little
+<pb n="80" facs="tcp:115703:44"/>Brimſtone, or any ſuch thing, as you ſhall underſtand to be deſtru<g ref="char:EOLhyphen"/>ctive to worms, which compoſition hath been often tryed.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſerv. 5.</head>
+                  <p>I have known a Vine planted up<g ref="char:EOLhyphen"/>on the top of an Oak that did yield aboundance of excellent Grapes, very large, pleaſant and full of Juyce, and why not many Oaks ſo planted. In ground fit to be digged up, to ſet corn, and thereby to reap an hundred for one, and all charges born, and leſs than a peck of wheat will fat an acre, and with the uſe of Muck-water, a far greater increaſe.</p>
+                  <p>That one good digging being it goeth deeper than the Plow, and thereby deſtructive to all ſorts of weeds, and Graſs, is as good as three plowings, if the Land be mellow, and the charge is no more.</p>
+                  <p>This courſe would imploy hun<g ref="char:EOLhyphen"/>dreds
+<pb n="81" facs="tcp:115703:44"/>&amp; thouſands, and the ground be made convenienter for other crops, which would be far greater. If we ſet a grain of Corn, as Wheat, Bar<g ref="char:EOLhyphen"/>ly, &amp;c. it uſually produceth three hundred and four hundred for one, according to experience, but if you ſowe Wheat the accuſtomed way ſix for one is accounted a good crop.</p>
+                  <p>If the ſame quantity of acres of poor, heathy, barren Land, by pro<g ref="char:EOLhyphen"/>ducing Flax, Turnips, and Clover-graſs will yield more profit than the richeſt Land that beareth, wheat, Barly, Meadow, and good paſture, then by conſequence the poor Land is better than the rich.</p>
+                  <p>It is alſo juſtified that two acres of corn being equally ſowen, if the Muck-water be in time caſt over the one acre, ſufficiently either with the Engine, or otherwiſe, that acre ſhall exceed the other five for one, and upwards.</p>
+                  <p>You may have ſix times more
+<pb n="82" facs="tcp:115703:45"/>Hay, in a Meadow when it is turned up with the Plow, or a Cut<g ref="char:EOLhyphen"/>ting-knife, and ſowed thick with the Aſhes, burnt of out the ſubſtance thereof.</p>
+                  <p>But the rain muſt follow firſt, o<g ref="char:EOLhyphen"/>therwiſe uſe the Muck-water or or<g ref="char:EOLhyphen"/>dinary water, with the Engine, then ſowe the Meadow with the ſeed of <hi>Trefoyl,</hi> and plow and har<g ref="char:EOLhyphen"/>row them, or in ſome ground you may uſe a ſtrong Iron rake; let the firſt Graſs that groweth thereon be very ripe that it may fall off it ſelf, then let ſome paſs over it rakes and cords, and ſtir it that it may fall out afterward, let it be mowed off, and carried to a certain place where it may be con<g ref="char:EOLhyphen"/>veniently dryed, and the Graſs will grow again preſently, and may be mowed again in that year.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſerv. 6.</head>
+                  <p>There are waies to make ruſhy
+<pb n="83" facs="tcp:115703:45"/>ground bear very good graſſe, firſt plow it up, then Marl it, or plow and burn it, according to the uſual cuſtome, and being wet trench it, and then add a proportion of the muck following thereunto, with being rightly ordered will exceed the ordinary muck five for one, and upwards.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſer. <hi>7.</hi>
+                  </head>
+                  <p>To make Corn-ground, quite out of heart, and worn out, to af<g ref="char:EOLhyphen"/>ford as good a Crop on the laſt yeer of the leaſe as ever it did be<g ref="char:EOLhyphen"/>fore, and this hath been performed by ſteeping the <hi>Corn,</hi> and muck Water.</p>
+                  <p>Sow with your Oats, the bot<g ref="char:EOLhyphen"/>tom of a Hay-mow, and although your Land be out o ſheart, and very poor, you may have that yeer, not
+<pb n="84" facs="tcp:115703:46"/>onely a Crop of Oats, but alſo a Crop of Graſs likewiſe, which was ſpared till the next yeer, that it might beget a good ſword, &amp;c.</p>
+                  <p>There is a workman that made a Cart to draw as much with one horſe as with five, and is ſtill living at <hi>Dedford.</hi>
+                  </p>
+                  <p>An Honourable perſon neer <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> hath deviſed a Plough that with one horſe, and a boy, will per<g ref="char:EOLhyphen"/>form as much in a day, as his neighbours, onely with the parti<g ref="char:EOLhyphen"/>tion of a hedge between them, upon the ſame ſort of ground, can di<g ref="char:EOLhyphen"/>ſpatch with four or five horſes, and two men beſides; the Gentleman doth advance, twenty for one, in an Acre, more than his neighbours can do, and theſe people, when they have been very much caſt behinde, have been offered the help of this Plough, but they have refuſed it, becauſe they would not alter their antient courſe.</p>
+                  <pb n="85" facs="tcp:115703:46"/>
+                  <p> The ſame Gentleman hath like, wiſe a Cart with three wheeles, wherewith one horſe will draw, about fourty loads of Muck in a day, to a field of ſome diſtance, neither is the horſe put to any hardneſſe of labour, for a man may draw the Cart with his hand, &amp; it will paſſe with great facility, the horſe doth not bear any weight at all, he hath likewiſe a very large Cart with three wheels, where<g ref="char:EOLhyphen"/>with one horſe can draw a full load.</p>
+                  <p>This Gentleman hath likewiſe a Chariot with three wheeles being like the hinder part of a Coach, and hath a ſeat behinde the chair, where his foot-boy may ſit, if the wayes prove foul, in which Cha<g ref="char:EOLhyphen"/>riot his wife and himſelf have tra<g ref="char:EOLhyphen"/>velled eighty Miles, in two dayes, with one horſe, and although he be ſufficiently provided with hor<g ref="char:EOLhyphen"/>ſes, yet he commonly uſeth his Chariot, and guideth the horſe,
+<pb n="86" facs="tcp:115703:47"/>by the reigns himſelf with much eaſe and delight.</p>
+                  <p>And therewith he hath outgone a Coach and ſix horſes; he con<g ref="char:EOLhyphen"/>ſtantly uſeth the ſame Chariot up<g ref="char:EOLhyphen"/>on any occaſion from his houſe to <hi>London.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="87" facs="tcp:115703:47"/>
+               <head>
+                  <hi>Chap. 11.</hi> To make Clay burn as clear as any other fire, and as uſefull.</head>
+               <p>TAke one third part of ſmall pit Coal, or ſea Coal, and mingle them together as you would Mor<g ref="char:EOLhyphen"/>ter, then make them up in round balls leſſe than your head, and lay them upon a place, to dry, then lay them upon the fire one upon ano<g ref="char:EOLhyphen"/>ther
+<pb n="88" facs="tcp:115703:48"/>and obſerve the concluſion.</p>
+               <p>There is alſo a ſort of Lome, which is of it ſelf combuſtible, and will with the addition of a few Charcoales; burn very clear and prove exceeding uſefull. <hi>P<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>batum eſt.</hi>
+               </p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="89" facs="tcp:115703:48"/>
+               <head>
+                  <hi>Chap. 12.</hi> A way to convay Water un<g ref="char:EOLhyphen"/>der ground up to a very high hill and ſo to the top of the higheſt houſe.</head>
+               <p>THis muſt be performed as it may be ſeeen, at <hi>Barkhamſted,</hi> in <hi>Hartfordſhire,</hi> by a wheele, lea<g ref="char:EOLhyphen"/>ving the reſt (to avoid prolixity) to be demonſtrated by diſcourſe.</p>
+               <div type="observation">
+                  <pb n="90" facs="tcp:115703:49"/>
+                  <head>Obſerv. <hi>1.</hi>
+                  </head>
+                  <p>Out of two pecks and a half of Rape ſeeds, ſown neer <hi>York</hi> the laſt yeer, there was ſould as much of the ſeed as came to fourty pounds.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſerv. <hi>2.</hi>
+                  </head>
+                  <p>There is a ſure way to feed old cattell fat in a ſhort time, and to make the meat as tender as the youngeſt.</p>
+                  <p>Firſt make them as poore as you can poſſible, then turn them to very good freſh graſs, by which means you may enjoy your deſire.</p>
+               </div>
+               <div type="observation">
+                  <pb n="91" facs="tcp:115703:49"/>
+                  <head>Obſerv. <hi>3.</hi>
+                  </head>
+                  <p>To make Heifers as large again as their dams, and as formal as the fayreſt Oxen, onely by ſpaying them while they are young, and they will ſell at the rates equal with Oxen.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſerv. <hi>4.</hi>
+                  </head>
+                  <p>I Have known Gentlemen that have cauſed <hi>Tares</hi> to be ſowed amongſts their Graſſe in their <hi>Med<g ref="char:EOLhyphen"/>dowes,</hi> which thereby have afforded a double proportion of fodder for their Cattell, and to very great ad<g ref="char:EOLhyphen"/>vantage.</p>
+                  <p>There is a Gentleman who doth uſually ſow ſeveral Acres of <hi>Fen<g ref="char:EOLhyphen"/>nell,</hi> wherewith he feedeth, and
+<pb n="92" facs="tcp:115703:50"/>fatteneth his Cattell in a very ſhort time, and one Acre thereof will ex<g ref="char:EOLhyphen"/>tend very farre, and will afford ſe<g ref="char:EOLhyphen"/>veral Crops in one yeer, according to the Sowe-thiſtle, the oftner you cut it, the thicker it will grow, and once ſowen it will continue many yeers without trouble, you may give it your Cattle in Racks by bundles as you cut it.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſerv. <hi>5.</hi>
+                  </head>
+                  <p>Another doth uſually and pri<g ref="char:EOLhyphen"/>uately, every yeer, ſow divers Buſh<g ref="char:EOLhyphen"/>ells of Bay ſalt on his Corn ground, and to the admiration of all his neighbours, he hath conſtantly bet<g ref="char:EOLhyphen"/>ter Crops of Corne, by far than any of them, they being wholy ig<g ref="char:EOLhyphen"/>norant of his wayes. This being made known to a Gentleman, he hath bought great ſtore of Bay Salt at two ſhillings ſix-penee <hi>per</hi> buſh<g ref="char:EOLhyphen"/>ell, and being a great husband, and
+<pb n="93" facs="tcp:115703:50"/>very knowing in huſbandry, is con<g ref="char:EOLhyphen"/>fident, to advantage himſelf much thereby: for there is no Muck or ſoyle Comparable thereunto, both for Graſſe and Corn, as may evidently appear by the Salt Marſhes, in ſeverall places of this Nation.</p>
+               </div>
+            </div>
+            <div n="13" type="chapter">
+               <pb n="94" facs="tcp:115703:51"/>
+               <head>
+                  <hi>Chap. 13.</hi> To make a ſufficient fence, of Sallowes, or VVil<g ref="char:EOLhyphen"/>lowes, or both, in a ve<g ref="char:EOLhyphen"/>ry ſhort time.</head>
+               <p>LEt your ditch, be ordered accor<g ref="char:EOLhyphen"/>ding to the uſual manner, and and if it may be with good Mould, and take ſmall ſticks of Willowes, or Sallowes, cut from the trees, and cut the Bark round with the
+<pb n="95" facs="tcp:115703:51"/>knife, about three inches diſtant, the one from the other, and place two of the ſticks ſidewaies, one foot diſtant, the one from the other, then cover them with earth, and with Mould, and they will ſoon ſhoot forth to very good perfection, and from every place ſo cut round will ſpring forth a branch, which after they are grown about half a yard, you may cut them off a<g ref="char:EOLhyphen"/>bout three inches from the ground, and they will thereby grow the thicker, and become a very com<g ref="char:EOLhyphen"/>pleat fence ſuddenly, and eſpeci<g ref="char:EOLhyphen"/>ally if you water them with the muck Water.</p>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="97" facs="tcp:115703:52"/>
+               <head>Chap. 14. <hi>Of</hi> Muskmelons.</head>
+               <p>THe way to have as good <hi>Muſk<g ref="char:EOLhyphen"/>melons,</hi> as are any in <hi>Italy,</hi> without the unwholſome uſe of the muck<g ref="char:EOLhyphen"/>beds here in <hi>London,</hi> is confirmed by the <hi>Earl</hi> of <hi>Dorſet.</hi>
+               </p>
+               <p>Plant them under a Wall, Pale, or Hedge, on the Sunny ſide, with very good mould, purpoſely pre<g ref="char:EOLhyphen"/>pared,
+<pb n="96" facs="tcp:115703:52"/>and underneath the Mold, lay a quantity of freſh Barly ſtraw, and by this eaſie meanes, uſing the ſeaſonable Covertures, and neceſ<g ref="char:EOLhyphen"/>ſary futherance, you may attain to your uttermoſt deſire, without any further trouble; but if you do diſ<g ref="char:EOLhyphen"/>cern the ſtraw to make the earth too hot, thruſt in a ſtake through the mould to the ſtraw, that the vapour and heat evaporate, and paſſe forth, this from the <hi>Earl</hi> of <hi>Te<g ref="char:EOLhyphen"/>nett.</hi>
+               </p>
+               <p>I ſhall more copiouſly inlarge my ſelf herein, with the ready way to ripen them, and ſuch other fruits, before their ſeaſon, by plant<g ref="char:EOLhyphen"/>ing them in dry weather, and every third or fourth day, watering them with warm water.</p>
+               <p>Whereas there hath happened an exceeing great deſtruction of Beanes, Peaſe, and other corn of
+<pb n="98" facs="tcp:115703:53"/>late yeers, by Wormes, and other creeping things, both about the City and in moſt places of the Countrey, there being no means imagined by any for the preventi<g ref="char:EOLhyphen"/>on thereof, you may obſerve how to avoid them, both in Fields, Gar<g ref="char:EOLhyphen"/>dens, and at the roots of trees. Take ſliced, or bruiſed Onions, and ſteep them in Water, all night or longer; add thereunto a proportion of Salt and Soot, and Lime (if you pleaſe) or Aſhes, in your Gardens you may uſe it with your watering Pots, eſpecially to the roots of trees. And for the Corn fields the engine following is moſt proper, which I refer to my after diſcourſe.</p>
+               <p>This compoſition will not leave a Worm in the ground, where it is uſed, beſides it will ſtrengthen the Land very much for Corn, and bring the Trees to much fruitful<g ref="char:EOLhyphen"/>neſſe, that were formerly decayed at the roots; if there be Wormes,
+<pb n="99" facs="tcp:115703:53"/>take but a drop or two of the Onion water, and ſome Salt, put it into a Worm-hole, and the worm will come out, and dye pre<g ref="char:EOLhyphen"/>ſently; and the ſame water, with Onions and Salt, by drinking a lit<g ref="char:EOLhyphen"/>tle of it in a morning faſting, at the full of the Moon, will deſtroy all Wormes in men, women and children; you may uſe onely the <hi>Onions</hi> which will be ſuffici<g ref="char:EOLhyphen"/>ent.</p>
+               <p>A remedy for the worms in men, women and children, you muſt three mornings before the full of the Moon, give them to drink a quantity of new Milk, and give it them in the morning of the full Moon, and the worms then expect<g ref="char:EOLhyphen"/>ing breakfaſt as before, they having then as Phyſicians ſay, their mouths open, are deſtroyed.</p>
+               <p>To bring into one place, and deſtroy all Worms, that are hurt<g ref="char:EOLhyphen"/>full in a Gardens, take the belly or
+<pb n="100" facs="tcp:115703:54"/>panch of a Weather newly killed, and all the filth and dung that is in it, and bury the ſame in the place were they be, cover it a little with the earth, and within two dayes you may ſee all the hurtfull things reſort thither, which you may deſtroy, as you pleaſe, <hi>Cen<g ref="char:EOLhyphen"/>taury, Colloquintida</hi> and <hi>Wormewod</hi> are good ingredients to adde if need were to the former deſigne to de<g ref="char:EOLhyphen"/>ſtroy Wormes.</p>
+               <p>You may at the end of <hi>March</hi> or <hi>February</hi> make the ground very wet by caſting water thereon, and about eight or nine of the clock, by candle light gather up all the wormes, whereby you may deſtroy them in Gardens.</p>
+               <p>Water wherein the leaves and ſeed of Hemp is ſodden, being caſt and ſprinkled on the earth, will make the wormes come out of the ground, if there be any.</p>
+               <pb n="101" facs="tcp:115703:54"/>
+               <p> Cabbages puld up by the roots, &amp; ſet in ſand, in a Cellar or ſome other room, may be kept all the Winter, or you may hang them up with ſtrings, and ſo may you keep Artichokes, and other plants, and roots, for conſtant uſe, as Carets, Parſnips, and Turnips. In dry wea<g ref="char:EOLhyphen"/>ther in <hi>October,</hi> and <hi>November,</hi> make a layr of Sand, and a layr of Carrets, cutting away the tops cloſe to the roots, with ſome of the ſmall ends of the Carrets, and about the laſt of <hi>December,</hi> when there is no froſt, uncover them, and you may keep them longer if you pare off the the ſhootings of the upper end of the root, and then lay them in Sand, and ſo Parſnips, and Tur<g ref="char:EOLhyphen"/>nips.</p>
+               <div type="observation">
+                  <pb n="102" facs="tcp:115703:55"/>
+                  <head>Obſer. <hi>1.</hi>
+                  </head>
+                  <p>In <hi>Herefordſhire</hi> they feed their Swine with Elm-tree-leaves, ga<g ref="char:EOLhyphen"/>thering them in bags.</p>
+                  <p>There was fifty pound an Acre offered for Tobacco lately in <hi>Wor<g ref="char:EOLhyphen"/>ceſterſhire,</hi> and at that rate, for ſe<g ref="char:EOLhyphen"/>verall Acres.</p>
+               </div>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="87" facs="tcp:115703:55"/>
+               <head>
+                  <hi>Chap. 14.</hi> To get off the Smutt from VVheat.</head>
+               <p>FIrſt lay a lay of Barly Chaff, then a layer of ſmutty Wheat, then a layer of Chaff again, then a layer of VVheat, &amp;c. and ſo thraſh it, and it will break very fair.</p>
+               <div type="observation">
+                  <pb n="104" facs="tcp:115703:56"/>
+                  <head>Obſer. <hi>2.</hi>
+                  </head>
+                  <p>Bury <hi>Hawthorn Berries</hi> deep in the ground all the winter, then ſow them in <hi>February,</hi> and water them with muck-water, as followeth, and you ſhall finde wonderfull ex<g ref="char:EOLhyphen"/>pedition in the growth.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſerv. <hi>3.</hi>
+                  </head>
+                  <p>Quickſets are not to be weeded at all after <hi>Mich.</hi>
+                  </p>
+               </div>
+               <div type="observation">
+                  <head>Obſer. <hi>4.</hi>
+                  </head>
+                  <p>That VVheat being newly ſown upon ground, on a hill ſide, very poor and not worth two ſhillings an Acre, and never mucked, there was Clover Graſſe ſown amongſt the VVheat, which proved to be as rich, and as good a Crop, as ever was ſeen in <hi>England,</hi> or ever was
+<pb n="105" facs="tcp:115703:56"/>known to grow without muck, and after the VVheat was cut, the Clover grew up beyond expectati<g ref="char:EOLhyphen"/>on, and ſerved for excellent paſture, all the yeer following; A very good crop of Clover Graſſe was cut in the ſame yeer, which was performed by ſteeping the VVheat (in Salt Brine) and Lime, which hindred the prejudice of the Crowes, birds, worms, &amp;c. The ſeed was ſteeped in ſtrong Brine, that would bear an Egge, about twenty four hours.</p>
+                  <p>Firſt there was laid a lay of the ſteeped ſeed ſpread upon a floor, then a lay of Lyme, upon the corn, then a layer of corn again, &amp;c. The like benefit was made with part of this ground, by ſow<g ref="char:EOLhyphen"/>ing of Barley ſteeped, and ming<g ref="char:EOLhyphen"/>led with Clover Graſſe, which ground hath lately afforded three Crops a yeer of Clover, as high as hath been ſeen in <hi>England,</hi> one
+<pb n="106" facs="tcp:115703:57"/>crop thereof tranſcending VVheat.</p>
+                  <p>And that after the wheat is ſteeped, as before with Lyme, A Gentleman caſt the Clover Graſle ſeeds thereon, often ſtirring them together with a Shovell, the ſeed did ſo Concorporate with the VVheat, and Lyme, that it made a wonderfull improvement, and doth very much enrich the ground, and totally prevent the Smuttineſs of VVheat.</p>
+                  <p>A Gentleman in <hi>Kent</hi> would uſually with <hi>Barley,</hi> which being cut, &amp; the VVoold which was left ſtanding, and there was very good paſture that yeer on the ground, in <hi>June</hi> the yeer following, the ſeed of divers acres thereof was ſold for ſix pound an acre being more com<g ref="char:EOLhyphen"/>modious than wheat, and without charge, which hath been ſold for<g ref="char:EOLhyphen"/>merly for fifteen and ſixteen pound an acre.</p>
+                  <pb n="107" facs="tcp:115703:57"/>
+                  <p> VVhereas there hath been a thouſand buſhels of corn utterly ſpoiled that hath been laid up in ſtore-houſes, with an ordinary ſmall black creeping worm which doth uſually breed in malt, and have been often ſeen to cover the Malt all over, and are of that dan<g ref="char:EOLhyphen"/>gerous conſequence that part of them will deſtroy the Malt, and corrupt the Beer that is made there<g ref="char:EOLhyphen"/>of, and make it very unwholſome, worms which have been often ſeen in the like manner to breed a<g ref="char:EOLhyphen"/>mongſt VVheat, laid up in great heaps, to the great ſpoil thereof, the way to deſtroy them is to get about a Sack full of horſe Auts, which be covered in the fields with great heaps of duſt, and little ſticks; Then ſhovelling the Corn from the ſides of the roomes, and divi<g ref="char:EOLhyphen"/>ding the heaps of corn into ſeve<g ref="char:EOLhyphen"/>rall floors, and ſpaces, lay about a quart af Ants in ſeveral of the
+<pb n="108" facs="tcp:115703:58"/>bare places, leaving there the full quantity of them, in like manner, and they will become deſtructive to the wormes Immediately.</p>
+                  <p>The Malt will be by this means reſtored and rectified, and the Ants have been obſerved to vaniſh ſuddenly. Sowe Oates, and Tares together, and the Oates will there<g ref="char:EOLhyphen"/>by grow very rank and high, and the Tares will Climbe up with the Oats, and thrive the better, be it far in <hi>May,</hi> you may cut this Crop, and diſpoſe of it for fodder, and the ſame ſummer you may have another crop which will come up more advantagiouſly than the other.</p>
+                  <p>A Gentleman of <hi>Richmond,</hi> hath this yeer about thirty acres of S. <hi>Foyne</hi> which is of exceeding great eſtimation with him, and with di<g ref="char:EOLhyphen"/>versothers, not without ſufficient cauſe, he preſerveth his ſeed to be ordered for greater Crops, the be<g ref="char:EOLhyphen"/>nefit
+<pb n="109" facs="tcp:115703:58"/>it affordeth on that ſort of ground, being a very dry hard ſoyl is two Crops in a Summer, and two loads on an acre, and for pa<g ref="char:EOLhyphen"/>ſture, it is of moſt admirable repute, and equally fruitfull for Milch<g ref="char:EOLhyphen"/>kine, with the other, being com<g ref="char:EOLhyphen"/>monly on dry barren ground, not worth twelve pence an Acre.</p>
+                  <p>
+                     <hi>Virginia</hi> wheat will yeeld here in <hi>England</hi> five hundred for one, being diſcreetly ordered, with muck, and then muck water; A Gentleman not far from <hi>London</hi> doth uſually ſow theſe ſeeds in the bellies of Sprats, or ſome other fiſh, where<g ref="char:EOLhyphen"/>by they come to a more ſeaſonable maturity, and with greater advan<g ref="char:EOLhyphen"/>tage.</p>
+               </div>
+            </div>
+            <div n="15" type="chapter">
+               <pb n="110" facs="tcp:115703:59"/>
+               <head>
+                  <hi>Chap. 15.</hi> To recover old Trees.</head>
+               <p>TAke the quantity of a quarter of a peck of Horſe blood, or Oxe blood tempered, with about half a peck of Pigeons dung, make it up into ſoft paſte, which will be rare to apply to the greater roots, and aged Trees, faſtning the ſame paſte about the roots after they have been lay'n
+<pb n="111" facs="tcp:115703:59"/>bare, and have taken ayr ſome few dayes, which courſe will cer<g ref="char:EOLhyphen"/>tainly recover a Tree or Vine that is near dead, &amp; will make them put forth bloſſoms and fruits afreſh, which muſt be done about the mid<g ref="char:EOLhyphen"/>dle of <hi>February.</hi>
+               </p>
+               <p>Apply it to the Vine about the beginning of <hi>March;</hi> you may like<g ref="char:EOLhyphen"/>wiſe recover old Trees, by applying to the Roots, before the Sap cometh up, &amp; to make your trees floriſh, and proſper very well, round about the body of the Trees make many holes with a crow of Iron, about ſix weeks after <hi>Michaelmas,</hi> and powr into the holes your rich muck water, or Oxe blood, and fill them up with good mould, &amp;c.</p>
+               <div type="observation">
+                  <head>Obſerv. <hi>1.</hi>
+                  </head>
+                  <p>If you would have Poles, Poſts, &amp; Stakes, Pales, whch you drive into water laſt long, burn them well at
+<pb n="112" facs="tcp:115703:60"/>the ends, ſo far as they are to be in the ground, and they will continue without decaying many yeers; this courſe a Gentleman in <hi>Cheſhire</hi> uſed about five yeers ſince, and the Poſts, and Pales, are ſtill ſtand<g ref="char:EOLhyphen"/>ing without repair.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſer. <hi>2.</hi>
+                  </head>
+                  <p>To help a Chimney that is dangeroſly on fire, let two or three perſons, take a Blanket, or Cover<g ref="char:EOLhyphen"/>let, and hold it cloſe to the mouth of the Chimney, that no ayr may enter, and with a cloſe board, cover the the top of the Chimney, and the fire for want of ayr, will ſoon be extinguiſhed.</p>
+                  <p>A Gentleman of great worth in <hi>Hartfordſhire,</hi> did lately confidently affirm unto me that at <hi>Hutcher</hi> in that ſhire, they did beſtow three thou<g ref="char:EOLhyphen"/>ſand
+<pb n="113" facs="tcp:115703:60"/>pound <hi>per Annum</hi> in Rags in <hi>London,</hi> and altough they have been infected vvith the plague, very of<g ref="char:EOLhyphen"/>ten, they finde ſuch benefit by them, that they conſtantly uſe them, vvhich they chop into pieces and then diſpoſe them upon their Corn ground, they likevviſe buy all the ſhaved Rabbets skins they can get for money, and all the ſhaved horn, and Sheeps trotters, the laſt being beſt of all, excep<g ref="char:EOLhyphen"/>ting Sprats, which when they are ſold at a penny or 2 pence a peck, being often thrown about ſtreets, upon muckhills, there cannot be a more fruitfull Manure than they are, and every other unſound fiſh.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſer. <hi>3.</hi>
+                  </head>
+                  <p>Chaff will heat and ripen un<g ref="char:EOLhyphen"/>ripe Apples.</p>
+                  <pb n="114" facs="tcp:115703:61"/>
+                  <p> The droſſeor that which is left after the preſſing out of Lyntſeeds, is exceeding profitable for the feeding of Cattell, as the other Rapeſeeds, with turnips.</p>
+                  <p>Hempſeeds given to Hens in Winter will make them lay oftner than ordinary ſeeds or corn.</p>
+               </div>
+            </div>
+            <div n="16" type="chapter">
+               <pb n="115" facs="tcp:115703:61"/>
+               <head>
+                  <hi>Chap. 16.</hi> To feed and fatten all ſorts of Poultry and Fowl.</head>
+               <p>BOyl Butchers blood, which is eaſily to be had, with a good qantity of Bran, mingſed there<g ref="char:EOLhyphen"/>with, or grains, which is not ſo good, untill it come to the manner of a blood pudding, which will feed your Fowl as fat as you will deſire them to be.</p>
+               <pb n="116" facs="tcp:115703:62"/>
+               <p> Some do uſe to feed Fowl with Carrets, Turnips, Parſnips and Pumpions ſodden and mingled, with Bran, or coarſe Pollard</p>
+               <p>Turkies will become very fat in a ſhort time, and proſper exceeding<g ref="char:EOLhyphen"/>ly with bruiſed Acorns.</p>
+               <p>You may ſoak Chippings, and o<g ref="char:EOLhyphen"/>ther Cruſts of bread in broken beer or fleeten Milk, and feed your Ca<g ref="char:EOLhyphen"/>pons and Hens fat preſently.</p>
+               <div type="observation">
+                  <head>Obſer. <hi>1.</hi>
+                  </head>
+                  <p>To prevent blaſting of Corn under God, is to change the ſeed, or by ſoaking it in the beſt muck wa<g ref="char:EOLhyphen"/>ter, or mixing it with Lyme, and water as before, and the Corn be<g ref="char:EOLhyphen"/>ing ſeaſonably ſteeped, to adde thereunto the Lyme, or Aſhes, or both, and being thereby fixed unto them and ſo ſown, hath been a ſpe<g ref="char:EOLhyphen"/>ciall remedy theſe many yeers.</p>
+               </div>
+               <div type="observation">
+                  <pb n="117" facs="tcp:115703:62"/>
+                  <head>Obſer. <hi>2.</hi> Concerning muck, and muck water.</head>
+                  <p>Land floods are of gallant im<g ref="char:EOLhyphen"/>provement, and ſuch as come from the waſhing down of rode wayes, great towns, the ſoyl of paſtures, fertile fields, commons dung<g ref="char:EOLhyphen"/>hills, &amp;c. If Marl be good for graſs and corn, which is moſt cer<g ref="char:EOLhyphen"/>tain, then water mingled therewith muſt neceſſarily be of the ſame ver<g ref="char:EOLhyphen"/>tue.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſer. <hi>3.</hi>
+                  </head>
+                  <p>And if tainted water, couloured water, and water putrified, water thick, and fat waters in ponds, &amp;c. the riches of all theſe being allowed to be unvaluable for ſteeping of corn &amp;c.</p>
+               </div>
+               <div type="observation">
+                  <pb n="118" facs="tcp:115703:63"/>
+                  <head>Obſer. <hi>4.</hi>
+                  </head>
+                  <p>And if the ſea from the fat and brackiſh nature of it ſelf do ſo won<g ref="char:EOLhyphen"/>derfully enrich the lands, and ſalt mingled with corn hath a very good operation becauſe its brackiſh<g ref="char:EOLhyphen"/>neſſe is fruitfull to the land, and if ſteeping the corn either in fat water, Lyme water, Dung water, &amp;c. be of wonderfull effect to make ſtrange things which is moſt true.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſer. <hi>5.</hi>
+                  </head>
+                  <p>The reſidence of water that comes from Chalkie and Lyme<g ref="char:EOLhyphen"/>ſtone grounds, or be coloured with land floods, doth fatten the ground exceedingly, theſe being all con<g ref="char:EOLhyphen"/>firmed by thoſe of great judgement and experience.</p>
+               </div>
+               <div type="observation">
+                  <pb n="119" facs="tcp:115703:63"/>
+                  <head>Obſer. <hi>6.</hi>
+                  </head>
+                  <p>By ſome part of theſe experi<g ref="char:EOLhyphen"/>ments, a Gentleman which had but five or ſixe acres of Hay, he had twenty four loads in the ſame meddow, which may be made apparent.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſer. <hi>7.</hi>
+                  </head>
+                  <p>By Flooding (as Maſter <hi>Plat</hi> ſaith) who was a man of the great<g ref="char:EOLhyphen"/>eſt judgement and experience in Husbandry, who improved lands from three hundred ſhillings to three hundred pound <hi>per annum.</hi> He likewiſe highly commendeth Moats, and ſtanding Pooles, which may yeeld (as he ſaith) great ſtore of excellent manure, and that by the bleſſing of God, moſt wonderfull and miraculous things have been ef<g ref="char:EOLhyphen"/>fected by thoſe means.</p>
+               </div>
+               <div type="observation">
+                  <pb n="120" facs="tcp:115703:64"/>
+                  <head>Obſer. <hi>8.</hi>
+                  </head>
+                  <p>And farther great vertue, and worth, tis Concluded, there is in Mud of Rivers, ſtanding Pools, and Ditches, being the ſoyl of paſtures, and fields, common wayes, yards, and dunghills.</p>
+                  <p>Shovelling of ſtreets, highwaies, yards, and overſwathes, of com<g ref="char:EOLhyphen"/>mon land, and other lands of com<g ref="char:EOLhyphen"/>mons, neer hedges, is very good both of themſelves, and alſo com<g ref="char:EOLhyphen"/>pounded with other ſoyl.</p>
+                  <p>Mingling of grounds is exceed<g ref="char:EOLhyphen"/>ingly advantageous, &amp;c. Which may be conceiv'd of the muck water following, tis effected in Caſe of drought in time of Summer, and in the heat thereof, now and then wet<g ref="char:EOLhyphen"/>ting over the Land, which had it been known and uſed this Summer might have done millions of good.</p>
+                  <p>Theſe being Concluded, to be all
+<pb n="121" facs="tcp:115703:64"/>excellent helps, and exceeding great advantages, I could wiſh that thoſe that have great proportions of lands, ſhould be provided with a convenient Moat or ſtanding Pool, in ſome part of their grounds, and if they have not any ſuch pond, rather than to be without it, to dig one that will contain water, and may be ſupplied conſtantly therewith by a chanel from a river, or from Moats, that are maintained by ſprings, and rather than fail from a Pump, or ſome other deviſe or<g ref="char:EOLhyphen"/>conveniencie with pipes of Lead, Wood, or earth, or with the En<g ref="char:EOLhyphen"/>gine that followeth in the ſubſe<g ref="char:EOLhyphen"/>quent papers.</p>
+                  <p>This being Compleated, and ha<g ref="char:EOLhyphen"/>ving water ſufficient, let the firſt in<g ref="char:EOLhyphen"/>gredient be a quantity of crumbling Marl, if there be any near, and with a ſtrong Iron Rake fixed to a long Poſe, let the Marle be ſtirred at ſome times of leaſure to and
+<pb n="122" facs="tcp:115703:65"/>from you, to thicken the water, then having ſtore of Poultry Fowl, and Pigeons, to be very carefull to preſerve their dung; eſpecially the dung of Rabbits, if any be to be had, all which, or part thereof, be<g ref="char:EOLhyphen"/>ing caſt into the Pond, to ſtir it ſom<g ref="char:EOLhyphen"/>times as before, then having ſheep, where they ſit a nights in fold, you may get ſtore of their dung, and uſe as the other,</p>
+                  <p>In the like manner diſpoſe of all your Cow and Horſe dung with<g ref="char:EOLhyphen"/>out the ſtraw, and ſpare as many of your graines, after brewing as you can, ſeeing you may provide ſuffici<g ref="char:EOLhyphen"/>ent food for your Swine otherwiſe, and to get as much of theſe ſorts, as you can conveniently, or if you have any of theſe following, that you can conveniently ſpare, <hi>viz.</hi> Lynt<g ref="char:EOLhyphen"/>ſeed, Oyl, Lees of Wine, Ale, Bear, Perry, Syder, Beef-broth, the Brine of Poudring-tubs, ſcra<g ref="char:EOLhyphen"/>pings of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> or ſweepings
+<pb n="123" facs="tcp:115703:65"/>thereof, or any liquid brackiſh fat<g ref="char:EOLhyphen"/>neſſe, greaſy matter, or any thing that comes from or is of the fleſhly matter of the creat<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e, whether by Sea or Land, that hath a ſecret operation in it to the Earth, like<g ref="char:EOLhyphen"/>wiſe to caſt into the pond a propor<g ref="char:EOLhyphen"/>tion of Lyme, fat Chalke that is not ſtoned, and ſome bay Salt, and what blood you can get, and urine, which is moſt excellent for all ſorts of ground, and whatſoever you ſhall think in your own judgement to be helpfull and advantagious there<g ref="char:EOLhyphen"/>unto.</p>
+                  <p>This work being performed, you are to provide a veſſell containing a Tun, or there abouts, and being pla<g ref="char:EOLhyphen"/>ced in a Cart, with broad wheels without Iron, ſuch as are in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> that they may not Root the ground much, bringing the Cart to the Pond, fill the veſſell with a Tun<g ref="char:EOLhyphen"/>nell and a Pail at a Staffs end, ſuch as Brewers uſe for that purpoſe, or
+<pb n="124" facs="tcp:115703:66"/>you may cauſe a little ſcaffold to be made, ſuch as Brewers have at the <hi>Thames</hi> ſide, by which means you may ſoon fill it and Carry it to the fields, or hill ſides, and then to pro<g ref="char:EOLhyphen"/>vide an Engine which I am now finiſhing, in part like that they uſe in <hi>London,</hi> when houſes are on fire, which being placed in the middſt of the ſtreet, will caſt water to the ap<g ref="char:EOLhyphen"/>permoſt part of the higheſt houſe, and after this manner I have ſeen them water ſufficiently a great plat of graſſe: An Engine contrived in manner like this, will water an Acre compaſſe at one ſtanding, and then being drawn with low wheels, or otherwiſe may be removed to any other place.</p>
+                  <p>A reaſonable quantity of the Muck water will ſerve an Acre compleat<g ref="char:EOLhyphen"/>ly, and what vertue this commixture may have in it, I leave to all impar<g ref="char:EOLhyphen"/>tial Judgments, which I confidently have experimented in ſmall parcels,
+<pb n="125" facs="tcp:115703:66"/>&amp; but with a Gardning water-pot, I have found that it hath exceeded the beſt ſort of muck by many degrees, which liquor muſt be applied to the Land, when it is fed as low as may be, and the hill ſides being watered in this Manner the lower grounds will fare the better, by ſhowers of rain, and the waſhings from thence.</p>
+                  <p>And for Corn ground, there is an other way to be uſed with this Engine, being it may be contrived in manner of a Sedan with four legs, carried empty with two men, and ſet down without prejudice at all, the men paſſing with it onely in the furrowes, and then being ſet down and uſed there, may after<g ref="char:EOLhyphen"/>wards be removed to another place, as occaſion requireth, the Cart be<g ref="char:EOLhyphen"/>ing drawn to ſome lane and place in the field, with the veſſell of wa<g ref="char:EOLhyphen"/>ter where it may do no hurt to the tylled lands: I have concluded in my
+<pb n="126" facs="tcp:115703:67"/>thoughts, how to convey the water from the veſſell, to the <hi>Engine,</hi> with<g ref="char:EOLhyphen"/>out treading or ſoyling the lands at all, which is ſo facil, and will be allowable in any mans judgement, &amp; ſo continuing alway with ſo little charge, that I am not able at the pre<g ref="char:EOLhyphen"/>ſent to impart it with my pen, with<g ref="char:EOLhyphen"/>out too much prolixity, and there<g ref="char:EOLhyphen"/>fore I crave leave otherwiſe to finiſh my diſcourſe.</p>
+                  <p>This Engine being placed in a Centre, will caſt the Liquor before and behinde, and on both ſides, that it will mildely fall down, like a ſhower of rain with wonderfull ſucceſſe, and may be uſed with or<g ref="char:EOLhyphen"/>dinary water very advantageouſly, the Compaſſe of an Acre, of ground, at a time, on a dry time in ſummer both to growing Corn, and Graſſe, with very much ad<g ref="char:EOLhyphen"/>vantage.</p>
+                  <p>I have known Husbandmen, after they have ſowen their Corn, they
+<pb n="127" facs="tcp:115703:67"/>would pray that it would pleaſe God to ſend a ſhower of rain, and this Engin, with the bleſſing of God, will at any time comply with their deſires, and make the earth ſo fruit<g ref="char:EOLhyphen"/>full, that in my knowledge one acre ſo watered, I mean with the muck water, will render neer, if not fully twenty times more benefit, than any other acre, being tylled in the ſame manner, which will be (I am con<g ref="char:EOLhyphen"/>fident) as great a benefit to this Na<g ref="char:EOLhyphen"/>tion as ever was deviſed, beſides I ſhall be able to help any man with an Engine for a ſmall matter that will be very uſefull to water grounds in this nature, and exceed<g ref="char:EOLhyphen"/>ing convenient and commodious for Gardens, which will likewiſe waſh off <hi>Caterpillars</hi> from all man<g ref="char:EOLhyphen"/>ner of <hi>Fruit-Trees,</hi> and thoſe that grow againſt the Walls, and thoſe that will alter the leaves and fruit beyond belief, <hi>experience</hi> ſhall con<g ref="char:EOLhyphen"/>firm as much unto you.</p>
+                  <pb n="128" facs="tcp:115703:68"/>
+                  <p> When your Corn is likewiſe ſteeped in the Liquor about ſome four and twenty hours, according to my after directions, you may expect a far greater fertility and profit, which hath been ſeen above one hundred for one in Corn.</p>
+                  <p>When you have emptied your <hi>Pond,</hi> for theſe purpoſes, you are then before you fill it again to get out the mud, I mean the reſidence of the commixture, and to rake it out upon the bank ſide, which you may perform with the back of an old Armor; theſe, or one of them, being ſtrongly fixed upon a Poles end with <hi>Iron,</hi> the inward part of the Armour bending to<g ref="char:EOLhyphen"/>wards you, will rake up all the mud by degrees, with much fa<g ref="char:EOLhyphen"/>cility, and thereby you may cleanſe any River or Moat, without divert<g ref="char:EOLhyphen"/>ing the Water-courſe going into the water, or let the water out of Moats, &amp;c.</p>
+                  <pb n="129" facs="tcp:115703:68"/>
+                  <p> I have known Rivers about <hi>Cole<g ref="char:EOLhyphen"/>brook,</hi> above forty years ſince, let a yard lower, beſides the great be<g ref="char:EOLhyphen"/>nefit of drawing the Rivers, and the mudd ſo taken out of the Ri<g ref="char:EOLhyphen"/>vers, called ſmall <hi>Codd</hi> was ſo ex<g ref="char:EOLhyphen"/>ceeding rich, that they were mira<g ref="char:EOLhyphen"/>culouſly advantagious otherwiſe, which I ſhall hereafter diſcover.</p>
+                  <p>When you have gotten out this mudd you are before to provide a convenient place for your Straw, muck from the Stables, and Cow-Houſes, &amp;c. which muſt be con<g ref="char:EOLhyphen"/>trived in this manner, or other ſuch way according to the fancy of the Owner, <hi>viz.</hi> to incompaſs the place where you lay your muck with a Brick wall, about four foot high, only leaving a place for en<g ref="char:EOLhyphen"/>trance, to fill out the muck in Carts, and by any means to cauſe the flooring to be ſtanch, not to ſoak, and drink in the water of the Muck-hill at all, but rather for the
+<pb n="130" facs="tcp:115703:69"/>prevention thereof, to make ſuch a pavement of Brick-ſtone or Free<g ref="char:EOLhyphen"/>ſtone if it may be had near, and the floor to be made with a little de<g ref="char:EOLhyphen"/>ſcent on both ſides to the middle, that the water may paſs out in a Chanel into ſome wooden Veſſel, or Ceſtern that may ſtand in the Ground near, and ſo low, that the Muck-water may paſs into it, which may be contrived ſo full of vertue and fertility, that the worth of it is of high eſteem, (being once truly experienced) will tranſcend exceedingly, and cannot be bought at too dear a rate.</p>
+                  <p>There are many places where the Ground is ſo firm it needs not any other bottom, and the Liquor may be made by the meaner ſort in Veſſels, without a Pond, for ſmall parcels of ground, and there<g ref="char:EOLhyphen"/>by the other charges might be ſa<g ref="char:EOLhyphen"/>ved, but I firſt conceive it to be more proper to lay in the ſame quantity.</p>
+                  <pb n="131" facs="tcp:115703:69"/>
+                  <p> Then by digging a pit to caſt certain Loads of good Sand upon the Straw, and then loads of o<g ref="char:EOLhyphen"/>ther Earth to concorporate with it, which if it were commixed at the firſt it were better, but I leave the diſpoſing of that to knowing Huſ<g ref="char:EOLhyphen"/>bandmen, to be ordered according to the condition of the ſoyls, be<g ref="char:EOLhyphen"/>ing certain that any kind of earth that is moiſt digged out of pits without ſtones, may be ſo mingle as it may be excellent fruit full ſoyl, as Sand with Clay, Loam with Chalk, &amp;c. the one very much enriching the other, as gravel ground Dung'd with Chalk, and Chalk mingled with Gravel for want of Dung; but you may uſe if you pleaſe only Sand, then the muck out of the Pond or Earth of Commons near the Ditch-ſides, and Hedges, mud of ſtanding Pools, Sea-weeds, which are excellent ſoyl, ſhovelings of Streets, Yards, High-waies, and
+<pb n="132" facs="tcp:115703:70"/>leaves of Trees: as alſo Sea ſand, or any liquid brackiſh fatneſs, greaſie or oyly matter, tarry ſtuff, pitch<g ref="char:EOLhyphen"/>marks, the blood and offall of Beaſts, empty marrow-bones, the dreſſing and remainder of Trotters of ſheep, which are moſt excellent, the cuttings or ſhavings of Horns, hair, which is beſt to lay them up<g ref="char:EOLhyphen"/>on the ground before the Corn is ſown; then fuffer the Swine to muſle it up and down.</p>
+                  <p>Pilchers after the oyl is taken from them, the garbage of ſtinking Sprats, or the beſt of them when they are plentifull and cheap, they being cryed ſometimes for a peny a peck about the Streets in <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+                  </p>
+                  <p>Upon your mudd lay more ſtraw, then more loads of Sand, &amp;c. and as your judgement ſhall direct you, ſome Lyme properly diſpoſed, and ſome fat Chalk or Marl in equal wreathes, you may likewiſe caſt it
+<pb n="133" facs="tcp:115703:70"/>over in the right place with ſome Bay ſalt, and ſometimes when the Straw is uppermoſt, or other<g ref="char:EOLhyphen"/>wiſe you may ſpare ſome of your Pond water, and ſcatter on all the maſs that will occaſion the other to concorporate the better; and afford more, and richer Dung<g ref="char:EOLhyphen"/>water.</p>
+                  <p>By this means, and with in<g ref="char:EOLhyphen"/>different charge, you may have manure ſufficient to ſerve all your Land, and ſuch, that one load be<g ref="char:EOLhyphen"/>ing rightly ordered ſhall maintain it as well as ſome ten loads of your common ſort of muck, and the wa<g ref="char:EOLhyphen"/>ter that comes from it will be ſo rich for the ſteeping of your ſeed, that the diſcourſe thereof till ex<g ref="char:EOLhyphen"/>perimented would be incredible.</p>
+                  <p>A Gentleman did lately aſſure me, that the brine of powdering Tubs did afford him as good a crop of Corn, as ever was ſeen grow; urine of Mankind is of very great
+<pb n="134" facs="tcp:115703:71"/>worth to caſt upon the Muck<g ref="char:EOLhyphen"/>hill.</p>
+                  <p>Wood-aſhes are beſt next to Soap aſhes, which hath a vigorous ope<g ref="char:EOLhyphen"/>ration of it ſelf, and Soot is excel<g ref="char:EOLhyphen"/>lent good alſo, and likewiſe for Paſture, being only ſtrewed o<g ref="char:EOLhyphen"/>ver it.</p>
+                  <p>You may ſometimes caſt the wa<g ref="char:EOLhyphen"/>ter that drayneth from the Muck, upon the muck heaps again, which will afford the more vegetative ſalt, and deſend to the former receptacle more fructiferouſly, upon which maſs and heap of muck, I muſt in<g ref="char:EOLhyphen"/>ſtance the neceſſary and moſt be<g ref="char:EOLhyphen"/>neficial way of a covering or ſha<g ref="char:EOLhyphen"/>dow, which I will not inſiſt upon, but leave the reſult thereof, to the conſideration of profounder Judge<g ref="char:EOLhyphen"/>ments, only thus much I deſire to impart to the apprehenſions of others, that the ſalt muck heaps being expoſed in Winter, to the conſtant ſhowers of rain, do loſe
+<pb n="135" facs="tcp:115703:71"/>much of their ſtrength, the uppe part thereof being hardly worth the carriage, and ſpreading upon the ground.</p>
+                  <p>There are ordinary muck places that have very ſtanch bottoms, and will contain the water without any farther charge, although the ver<g ref="char:EOLhyphen"/>tue and goodneſs of the liquor in a ſhort time make reſtitution to coun<g ref="char:EOLhyphen"/>tervail all expences.</p>
+                  <p>And farther, concerning the ſteeping of Corn to manifeſt the benefit of muck water. In the heat of Summer, when the Sun hath ex<g ref="char:EOLhyphen"/>haled a great part of the coloured water from their moats and Dung<g ref="char:EOLhyphen"/>hill-pools, and that it groweth thick<g ref="char:EOLhyphen"/>iſh and far, then reſerve a good pit<g ref="char:EOLhyphen"/>full thereof well bottomed with Clay, that will hold water, and in ſeed time ſteep your ſeed in it, but put the far water to it by little and little, as it drinkerh it up, that at the laſt it may be almoſt dry, ſift a
+<pb n="136" facs="tcp:115703:72"/>ſmall quantity of Lime amongſt it, that ſo it may grow dry with the Lyme, then with this ſeed ſow or ſet your moſt remote grounds from your dunghill, and by this means you will ſave ten times as much labour in carriage of the Dung.</p>
+                  <p>Hereby excellent crops have been obtained beyond expectation, and not ſubject, being new ſowen, to be devoured with Fowls.</p>
+                  <p>I have ſometimes occaſioned the ſplitting of the Corn, as they uſe to do for malt, and then have ſowen it, and it came up ſpeedily, and got the predomination of the weeds at firſt, and ſo kept the ſame, where<g ref="char:EOLhyphen"/>by it became of better encreaſe than ordinary, and it hath been ſuffici<g ref="char:EOLhyphen"/>ently experimented, that when a dry ſeaſon came upon ſowing, that the Corn thus ordered took root far better than other mens.</p>
+                  <p>It hath been an antient Cuſtom to ſteep. <hi>Beans</hi> in ſalt water, being
+<pb n="137" facs="tcp:115703:72"/>uſual in <hi>Kent</hi> to ſteep the Barly when they ſow late, that it might grow the faſter, and alſo to take a<g ref="char:EOLhyphen"/>way the ſoyl from wild Oats, Cockle, &amp;c. which will ſwim, alſo much of the light Corn, which is neceſſary to be taken away.</p>
+                  <p>If you put Pigeons dung into the water, and let it ſteep all night, it will be as it were half a dunging.</p>
+                  <p>Mr. <hi>Platt</hi> doth highly commend the often macerating and drying of Corn, and it is an excellent way, ac<g ref="char:EOLhyphen"/>cording to his obſervation to ſteep Corn.</p>
+                  <p>If you cover the ground in Win<g ref="char:EOLhyphen"/>ter which you mean to break up at the Spring with good ſtore of Fearn, it is and hath been a long time ge<g ref="char:EOLhyphen"/>nerally commended, that it undoubt<g ref="char:EOLhyphen"/>edly ſuppreſſeth the weeds for ſpringing up in Winter, which would much confound part of the heart of the Ground, and doth alſo much fructifie the Ground for all
+<pb n="138" facs="tcp:115703:73"/>mannes of Roots and herbs, and very good to ſpread about the Al<g ref="char:EOLhyphen"/>lies of Hop-yards, to keep the Ground warm, and to deſtroy the weeds and graſs that would prein<g ref="char:EOLhyphen"/>dice the fertility of the earth.</p>
+                  <p>Some will burn to Aſhes, Roots, and Stubble, the ſword and ſwarth of the Ground together with Fearn, ſtraw, ſtubble, thiſtles, heath, ſedge, ruſhes, furs, bean ſtalks, which do very much advance barren Grounds, and make them moſt fructiferous.</p>
+                  <p>Wood mingled with Clods, and ſuperfluous earth, and ſo burnt, and the Aſhes added to ſome ſorts of Clay may be uſed with no leſs advantage than Marl.</p>
+                  <p>And to manifeſt the benefit of ſteeping Wheat, &amp;c. it may be performed with leſs plowing, and without muck, being provided with a convenient Veſſel of Wood, mingle water, Dung, and Corn together, which muſt be ſtirred very well ſe<g ref="char:EOLhyphen"/>veral
+<pb n="139" facs="tcp:115703:73"/>times, in and about Noon, the next day let the water paſs away at the top as much as may be, then ſtir the Dung and Corn very well together, and ſow it in a barren ſoyl, and you ſhall have a very plentifull crop, equal, if not tran<g ref="char:EOLhyphen"/>ſcending the Corn that hath been fully Husbanded.</p>
+                  <p>And further, to fortifie the waies of ſteeping Corn to be moſt admi<g ref="char:EOLhyphen"/>rable, I deſire to remember unto you what Mr. <hi>Hartlih</hi> doth illuſtrate, <hi>viz.</hi> put into Quick and unſlack'd Lyme as much water as ſufficeth to make it ſwim four inches above the Lyme.</p>
+                  <p>And unto ten pound of the ſaid water powred off, mix one pound of <hi>Aquavitae,</hi> and in that liquor ſteep or ſoak wheat or other Corn four and twenty hours, which being dryed in the Sun or Ayr, ſteep it again in the ſame liquor, four and twenty hours more; and ſo
+<pb n="140" facs="tcp:115703:74"/>likewiſe the third time, afterwards ſow them at a great diffance the one from the other, about a foot be<g ref="char:EOLhyphen"/>tween each grain, ſo you will find one grain will produce thirty, thir<g ref="char:EOLhyphen"/>ty ſix, forty two, fifty two ears, and thoſe very fruitfull, with a ſtalk equalling the ſtature of a man in height.</p>
+                  <p>Beat off your Wallnuts after they are full ripe, and in the green husks, or without put them into good ordi<g ref="char:EOLhyphen"/>nary earth in a Barrel or a Basket untill the begining of mid <hi>March</hi> fol<g ref="char:EOLhyphen"/>lowing, get as much warm milk from the Cow as will ſteep them four and twenty hours, then ſet them in ground well digged, and natural for ſuch fruit, with their little ends upwards, about three or four inches deep, and they will ac<g ref="char:EOLhyphen"/>cording to experience exceedingly proſper, ſet them near one foot a<g ref="char:EOLhyphen"/>ſunder, and in a right line to weed them, at four years growth tranſ<g ref="char:EOLhyphen"/>plant
+<pb n="141" facs="tcp:115703:74"/>them, and uſe the Muck wa<g ref="char:EOLhyphen"/>ter to the roots, according to diſ<g ref="char:EOLhyphen"/>cretion, which will exceedingly advantage them in their growth, and ſo likewiſe all other plants and trees, Quickſets, &amp;c. being well molded, which will put them for<g ref="char:EOLhyphen"/>ward to ſuch perfection, that you will comfortably admire thereat, which hath ſufficiently been tryed of late, theſe are excellent for Oyl, preſerves, and conſerves, chooſe the faireſt Wallnuts you can get, when you tranſplant, do the utmoſt to preſerve the top roots, that being bruiſed expect not the tree to thrive, but it will dye and fail at the beſt.</p>
+               </div>
+            </div>
+            <div n="16" type="chapter">
+               <pb n="142" facs="tcp:115703:75"/>
+               <list>
+                  <head>
+                     <hi>Chap. 16.</hi> A Diſcovery of the benefit might be made with part of <hi>500</hi> a<g ref="char:EOLhyphen"/>cres formerly limited; and ſo ac<g ref="char:EOLhyphen"/>cordingly by other parcels.</head>
+                  <item>
+                     <hi>IMpr.</hi> Rape-ſeed 20 acres. 0400 <hi>l.</hi>
+                  </item>
+                  <item>Muſtard-ſeed 20 acres. 0400</item>
+                  <item>Liquoriſh 20 acres. 1600</item>
+                  <item>Hops and Pumpions 20 acres. 1000</item>
+                  <item>Saffron 20 acres. 0400</item>
+                  <pb n="143" facs="tcp:115703:75"/>
+                  <item>Flax 20 acres. 0400</item>
+                  <item>Clover graſs 20 acres. 1000</item>
+                  <item>Roman Beans 20 acres. 1060</item>
+                  <item>Tobacco 20 acres. 0600</item>
+                  <item>Improvement of Ground for Or<g ref="char:EOLhyphen"/>chards, woade. 20 acres.</item>
+                  <item>Madder 20 acres. 0400</item>
+                  <item>French Beans 20 acres. 0400</item>
+                  <item>Pumpions and Cabbages 40 acres. 0400</item>
+                  <item>Taſſels 2 acres. 0050</item>
+                  <item>Oſiers 5 acres. 0125</item>
+                  <item>Clove July Flowers, and red Roſes 5 acres. 0100</item>
+                  <item>Milch Kine. 0100</item>
+                  <item>Feeding Cattel. 0100</item>
+                  <item>Rabbits in Hutches. 0500</item>
+                  <item>Malt.</item>
+                  <item>Poultery and Fowl. 0020</item>
+                  <item>Pidgeons. 0020</item>
+                  <item>Swine. 0020</item>
+                  <item>Bees. 0100</item>
+                  <item>Silk worms. 0500</item>
+                  <item>A Decoy. 0040</item>
+               </list>
+               <p>Oats hath been made 300 <hi>l. per</hi> a<g ref="char:EOLhyphen"/>cre,
+<pb n="144" facs="tcp:115703:76"/>the times being ſtill ſeaſonable therefore, Coriander ſeed need no Dung, and will grow very well here.</p>
+               <p>Anniſeeds will grow very well in <hi>England,</hi> and ſo Commin ſeed, Fennel-ſeed, and Canary ſeed.</p>
+               <p>Aſparagus once ſown will laſt twelve years.</p>
+               <p>Theſe before ſpecified, one with a<g ref="char:EOLhyphen"/>nother, will afford twenty pound an acre yearly.</p>
+               <p>When you have compoſed good ſtore of muck with earth, as before, you may lay of the beſt mould, ſome thickneſs upon the baſeſt Ground, and thereon ſet wheat, and you may have as good crops as you can deſire, or ever was known in <hi>England,</hi> the upper ſourd of that Ground by means of the mould will be much improved thereby, and the ſoyl likewiſe underneath, and you may farther at pleaſure advantage
+<pb n="145" facs="tcp:115703:76"/>the mould to the greateſt height with your Muck water, and by this means you may have all other com<g ref="char:EOLhyphen"/>modities in aboundance, proper for ſuch rich ſoyl, or appertaining to Gardening, as Saffron, &amp;c.</p>
+               <div type="observation">
+                  <head>Obſerv. <hi>1.</hi>
+                  </head>
+                  <p>Graft Apples upon Cherry ſtocks, and the fruit will be exceeding red.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſerv. <hi>2.</hi>
+                  </head>
+                  <p>To make Roſes by inoculation grow upon Cherry ſtocks.</p>
+               </div>
+            </div>
+            <div n="17" type="chapter">
+               <pb n="146" facs="tcp:115703:77"/>
+               <head>
+                  <hi>Chap. 17.</hi> To make <g ref="char:V">Ʋ</g>ines grow upon Cherry ſtocks.</head>
+               <p>PLant them together, and when the Vines have put out long ſmall branches, bore a hole in the Cher<g ref="char:EOLhyphen"/>ry ſtock, that the branch may eaſi<g ref="char:EOLhyphen"/>ly go through; take up the upper bark, untill it come to the Green,
+<pb n="147" facs="tcp:115703:77"/>and let it grow there, when it is well grown cut off the Vine below, ſtroak the Ground according to the ordinary wayes, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it well and you will have your <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+            </div>
+            <div n="18" type="chapter">
+               <pb n="148" facs="tcp:115703:78"/>
+               <head>
+                  <hi>Chap. 18.</hi> To make five ſorts of Roſes grow upon one Stock without inocula<g ref="char:EOLhyphen"/>tion.</head>
+               <p>WHen they begin to knot, bore with an Aul under the knot, and with a feather put Green in one, and Yellow in another, Red in the third, and Blew in the fourth, and cloſe up all the holes hand<g ref="char:EOLhyphen"/>ſomely.</p>
+               <pb n="149" facs="tcp:115703:78"/>
+               <p> Put the blood of <hi>Pikes</hi> before you put in the Grafts, dip the end of the Graft in it, and you ſhall have red Apples; but they will be redder by far, if you graft them up<g ref="char:EOLhyphen"/>on Cherrie ſtocks.</p>
+            </div>
+            <div n="19" type="chapter">
+               <pb n="150" facs="tcp:115703:79"/>
+               <head>
+                  <hi>Chap. 19.</hi> To make <hi>Roſes</hi> ſmell ſtrong, and unſavoury.</head>
+               <p>PUt <hi>Garlick</hi> cloſe to the Root, and ſo with <hi>Lillies,</hi> for they have all a ſympathy.</p>
+               <p>To make a red Roſe become white, as it groweth, kindle Brim<g ref="char:EOLhyphen"/>ſtone, and ſmoak the Roſe with it at your pleaſure, and it will become white preſently.</p>
+               <pb n="151" facs="tcp:115703:79"/>
+               <p> Take the roots of divers colours of Gillyflowers, bind them together, and ſet them in the ground in good mould, and you ſhall have them various in one ſtock.</p>
+               <div type="observation">
+                  <head>Obſer. <hi>1.</hi>
+                  </head>
+                  <p>Put Roſemary in Juniper, and it will endure the Winter the better, and ſmell more fragrantly.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſer. <hi>2.</hi>
+                  </head>
+                  <p>To make Parſly ſpring up in few hours; ſteep the ſeed in ſweet milk, and ſtraw your bed you mean to ſow with unquenc'd Lime upon it three times, then ſow your feed, and ſtrew once more of your Lime upon it, and upon that earth well prepared, then water it well with temperat Muck water as followeth, and you may according to diſcreti<g ref="char:EOLhyphen"/>on enjoy your expectation.</p>
+               </div>
+               <div type="observation">
+                  <pb n="152" facs="tcp:115703:80"/>
+                  <head>Obſer. <hi>3.</hi>
+                  </head>
+                  <p>Lay Beans and Peaſe in warm Oyl, or in the beſt Muck water, let them lye nine daies, then dry them, and in the mean time to try them; you may be aſſured, that what you ſet in any mans preſence, they ſhall ſpring up in few hours, or in a ſhort time.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſer. <hi>4.</hi>
+                  </head>
+                  <p>To make white Lillies become red, you muſt very neatly open the clifts of the roots, and fill the ſame with any red colour, then ſet them in fat dunged earth.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſer. <hi>5.</hi>
+                  </head>
+                  <p>Bore holes in Bay-berries, and put into every hole the ſeed of Ar<g ref="char:EOLhyphen"/>tichoaks, wrap them in dung, and
+<pb n="153" facs="tcp:115703:80"/>put them into the ground, whence come ſuch ſweet and pleaſant Arti<g ref="char:EOLhyphen"/>choaks, that better were never ea<g ref="char:EOLhyphen"/>ten.</p>
+                  <p>The like may be if you ſteep ſeeds three daies in ſweet ſmelling water, when you ſet your Cabbage Plants wrap them at the roots round about with freſh Cows muck, and when they are ripe they will ſmell moſt delicioufly like Musk, and thrive exceedingly.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſer. <hi>6.</hi>
+                  </head>
+                  <p>If Roſes and Lillies be planted nigh together, or that they touch one another, the flowers of them will ſmell the more curiouſly, and thrive the better.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſer. <hi>7.</hi>
+                  </head>
+                  <p>Gather green Beans from the ſtalks, being ripe and fully grown,
+<pb n="154" facs="tcp:115703:81"/>and ready to eat, then immediatly cut off the ſtalks, within a hand<g ref="char:EOLhyphen"/>full of the root; and if the weather be dry, apply unto the roots ſome of your muck water and more bran<g ref="char:EOLhyphen"/>ches will ſhortly ſpring out, where<g ref="char:EOLhyphen"/>upon will ſpring forth new Beans, &amp; more plentifull, and rather better than before; whereby you may have near three-fold encreafe, and two ſeveral gatherings of Beans in one year: but by any means take heed that the firſt gathering and cutting away of the ſtalks be when the ſtalks be green, and it is verily believed that Peaſe will do the like.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſer. <hi>8.</hi>
+                  </head>
+                  <p>Gather Roſes when they be ripe, and preſently cut away the new ſprung tops, and the uppermoſt branches of that year, and you ſhall have new freſh Roſes grow again out of the ſame ear about <hi>Michaelmas,</hi>
+                     <pb n="155" facs="tcp:115703:81"/>&amp; the more plentiful by applying the Muck water ſeaſonably to the roots.</p>
+                  <p>Graft Roſes in the bud upon ſweet Bryer, and they will ſmell moſt deliciouſly.</p>
+                  <p>The roots of Roſes, with their ſlips and knots removed and ſet a<g ref="char:EOLhyphen"/>mongſt Broom, will bring forth yellow Roſes.</p>
+               </div>
+            </div>
+            <div n="20" type="chapter">
+               <pb n="156" facs="tcp:115703:82"/>
+               <head>
+                  <hi>Chap. 20.</hi> To preſerve Cheſnuts, and keep them ſound.</head>
+               <p>LAy them together with Wall<g ref="char:EOLhyphen"/>nuts, and they will drink up and conſume the humours, whereby they corrupt, and will not ſuffer them to be moldy. I remember about thirty years ſince, I ſet at leaſt half a peck of choice Filberts in a Garden, on
+<pb n="157" facs="tcp:115703:82"/>dry ſandy borders, and finding not one of them to come up, at the latter end of the year I cauſed the banks to be digged up again, where I found all my Filberts freſh, full, and as pleaſant to eat as at any time before, whence you may learn, that burying them in freſh ſand, you may preſerve them freſh for your cating all the year, eſpecially being kept in the Ground in an earthen pot, ſo may you uſe Wallnuts and ſmall nuts, and the reaſon why the Fill<g ref="char:EOLhyphen"/>berts came not up, was for want of moyſture, therefore the muck water following wil be of excellent uſe, &amp;c.</p>
+            </div>
+            <div n="21" type="chapter">
+               <pb n="158" facs="tcp:115703:83"/>
+               <head>Chap. 21</head>
+               <p>ELm tree chips ſet in Ditches, will in a ſhort time become young Trees, and make a very good fence, and the ſlips that grow from the roots of Elms being taing off, will grow to great perfection in few years.</p>
+               <p>Wild Oats deſtroyed only by wheat fallow.</p>
+            </div>
+            <div n="22" type="chapter">
+               <pb n="159" facs="tcp:115703:83"/>
+               <head>
+                  <hi>Chap. 22.</hi> To keep Cloaths from Moaths.</head>
+               <p>SEeth the Dregs, or mother, or fome of Oyl, to the half, and ther<g ref="char:EOLhyphen"/>with anoint the bottom corners and feet of any Cheſt or Preſs, and the Cloaths that you lay therein will be freefrom any hurt with Moaths, but
+<pb n="160" facs="tcp:115703:84"/>before you put the Cloaths in the Cheſt, or Preſs, it muſt be dry.</p>
+               <div type="observation">
+                  <head>Obſer. <hi>1.</hi>
+                  </head>
+                  <p>Provide ſtore of Wallnut leaves, and hang them upon thred, one di<g ref="char:EOLhyphen"/>ſtant from another, when they are throughly dry, ſtrip them in the Cheſt, or amongſt the other Cloaths, and beds, and within the folds of e<g ref="char:EOLhyphen"/>very Garment; lay Wormwood or Lavender amongſt the Cloaths, and they will be ſafe from Moaths.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſer. <hi>2.</hi>
+                  </head>
+                  <p>The branches of Bay-rres wrapt up, laid amongſt Cloaths and Books, will keep them ſafe from Moaths and other corruption.</p>
+               </div>
+               <div type="observation">
+                  <pb n="161" facs="tcp:115703:84"/>
+                  <head>Obſer. <hi>3.</hi>
+                  </head>
+                  <p>To keep Apparel, hangings, &amp;c. from moaths, bruſh them ſeveral times in the year, with a Bruſh made of Wormwood tops, and you may rub them with Wormwood, eſpecially when you diſcern the moaths to haunt amongſt Hangings.</p>
+               </div>
+            </div>
+            <div n="23" type="chapter">
+               <pb n="162" facs="tcp:115703:85"/>
+               <head>
+                  <hi>Chap. 23.</hi> To take out ſpots of Oyl, or Greaſe.</head>
+               <p>TAke the bones of Sheeps trot<g ref="char:EOLhyphen"/>ters, and burn them almoſt to Aſhes, then bruiſe them to powder, and apply it to the ſpot, and lay all before the Sun when it ſhines very hot, and when the powder appears to be very black, lay on freſh in
+<pb n="163" facs="tcp:115703:85"/>the place till it ſuck out the ſpots, which may ſuddenly be effected by the water wherein Lavender is ſod, doth take away all ſpots in Cloath or Hats, if the place be waſhed and rubbed therewith.</p>
+            </div>
+            <div n="24" type="chapter">
+               <head>
+                  <hi>Chap. 24.</hi> To destroy Caterpillars.</head>
+               <p>BEſmear all the bottom of the Tree with Tar, then get ſtore of Ants, put them in a bag, and draw the ſame with a cord unto the Tree, and let it hang there, ſo that it touch the body of the Tree, and the Ants being prevented to go from the Tree by reaſon of the tar, will for want of food eat, and de<g ref="char:EOLhyphen"/>ſtroy
+<pb n="164" facs="tcp:115703:86"/>the Caterpillars, withour hurt<g ref="char:EOLhyphen"/>ing any of the fruit or leaves.</p>
+               <p>No Piſmires will touch the ſame Tree that ſhall have the lower part thereof rubbed round about with <hi>Lupines</hi> ſtamped.</p>
+            </div>
+            <div n="25" type="chapter">
+               <head>
+                  <hi>Chap. 25.</hi> To preſerve your Trees and Plants from being barked with Cows or Hares.</head>
+               <p>BEſmear the bodies of the Trees round about with Lyme, ſo far as the Cows can poſſible reach, or you may have Veſſels made of pan metal, more than two foot in length,
+<pb n="165" facs="tcp:115703:86"/>equally round about the compaſs of a Pottle pot and more, but divided lengthwiſe in the middle, and ſo fet together about the Tree.</p>
+               <p>Set a Horſe head upon a pole in the Garden, and it will baniſh all Flies that deſtroy Cabbages and o<g ref="char:EOLhyphen"/>ther tender Herbs.</p>
+               <p>If you deſire to have a white ſpot, or any part of a Beaſt turned white, firſt ſhave off the hairs, and make the place bare with the fume of Brimſtone, and white hairs will come thereon.</p>
+               <div type="observation">
+                  <head>Obſerv. <hi>1.</hi>
+                  </head>
+                  <p>To make a black Star in a white Horſes forehead, take an earthen pan, ſeeth it well with wa<g ref="char:EOLhyphen"/>ter, and bray it well in a Morter, bind this to the Horſes forehead a day and a night, and in few daies the white will fall off, and black hairs will grow in place thereof.</p>
+                  <pb n="166" facs="tcp:115703:87"/>
+                  <p> There is likewiſe a water to be made that hath many admirable vertues, which I ſhall otherwiſe re<g ref="char:EOLhyphen"/>late; lay it on a Horſe, and it will eat out the hair, and white hair will grow in the place of it.</p>
+               </div>
+            </div>
+            <div n="26" type="chapter">
+               <head>
+                  <hi>Chap. 26.</hi> To take Fiſh.</head>
+               <p>SEt a Candle in a piece of a Cork as even as may be with the water, which will ſtupifie and attract the fiſhes unto it, ſo that with a little hoop Net upon the end of a Cane or Staff you may take them with much facility, or with a ſhovel<g ref="char:EOLhyphen"/>net,
+<pb n="167" facs="tcp:115703:87"/>&amp;c. which muſt be in the night.</p>
+               <p>Where mudd and water is taken out of the Ponds, if the rain water do after come into them, there will become multitude of Eels in a ſhort time; and by this courſe you many abundantly encreaſe Carps.</p>
+               <p>In <hi>May</hi> dig up two Turfs of new grown Graſs, when the dew is on them, then tye the Graſsy ſides to<g ref="char:EOLhyphen"/>gether, and place them in water on the ſide of a Pond, then let them re<g ref="char:EOLhyphen"/>main there unmoved, about ten daies, and taking up the Turfs, untying or looſing them you ſhall find great ſtore of young Eels within the Turfs, although there were not an Eel in the Pond before, and by ty<g ref="char:EOLhyphen"/>ing the turfs together again, and placing them in the ſame water, a greater encreaſe will come thereof.</p>
+               <div type="observation">
+                  <head>Obſer. <hi>1.</hi>
+                  </head>
+                  <p>To get the ſeed of all ſorts of fiſh,
+<pb n="168" facs="tcp:115703:88"/>take roots of the weeds that grow on the water ſides, waſh the earth clean from them, bind them to a pole, and ſet them in a pond, and they will ſpawn upon them: but obſerve with<g ref="char:EOLhyphen"/>in a fortnight that they will be a<g ref="char:EOLhyphen"/>live, and will go off, therefore when you find that they have ſpawned, lift up the pole, with the weeds, and you may carry them twenty miles to fill other ponds.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſer. <hi>2.</hi>
+                  </head>
+                  <p>To bring all the Fiſh in a pond to<g ref="char:EOLhyphen"/>gether, take <hi>Plattaria</hi> or <hi>Dioſcorides,</hi> lay either of them in Hony a day and a night, then let them dry in the Sun, bind them to a ſtring, and caſt them into thepond, and all the fiſh will come to it.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſer. <hi>3.</hi>
+                  </head>
+                  <p>Sorts of Fiſh, eſpecially <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible: missing" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <pb n="169" facs="tcp:115703:88"/>that have been brought our of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> by placing them ſidewaies in a Basket of wet hay, to carry them in Veſſels of water, they will bruiſe and ſpoyl themſelves.</p>
+               </div>
+            </div>
+            <div n="27" type="chapter">
+               <head>
+                  <hi>Chap. 27.</hi> To take Moles.</head>
+               <p>GEt a pot or glaſs, which may ea<g ref="char:EOLhyphen"/>ſily be had in <hi>London,</hi> that is nar<g ref="char:EOLhyphen"/>row at the top, and wide at the bot<g ref="char:EOLhyphen"/>tom, and place one of theſe deep in the ground in the Fields where the moles are, the top of the pot being even with the ground, and
+<pb n="170" facs="tcp:115703:89"/>in the pot or glaſs put a ſtinking Crab, which they will eagerly ſmell after, and ſo fall into the pot, and be<g ref="char:EOLhyphen"/>ing impriſoned they will call for aid of their fellows, and ſo be all ta<g ref="char:EOLhyphen"/>ken.</p>
+               <p>And to bring them all to a place in this manner, fire Brimſtone in the like not ſo placed.</p>
+               <p>But firſt put a live Mole therein, and ſhe will call all the Moles that are near to come to her releaſe, and ſo be taken; you may uſe only a live Mole in the pot, without the Crab or Brimſtone.</p>
+               <p>And you may deſtroy them by degrees after this manner with a good Spade, and watching the pla<g ref="char:EOLhyphen"/>ces where they work, obſerving their conſtant times, ſtrike upon the Hill with the backſide of your Spade, which will amaze them ſo, that you may dig them up with your Spades, and find them in a manner dead, but they will ſuddenly recover again,
+<pb n="171" facs="tcp:115703:89"/>and ſo you may provide them for your pots. I have ſeen ſome taken in that manner with ordinary Clunchi<g ref="char:EOLhyphen"/>ons, and ſome only by ſtamping your foot upon the place where they work, and to take them with traps when they run back, as is common<g ref="char:EOLhyphen"/>ly known, you may likewiſe get ſome light ſtocks like arrows, and at the lower end with a white rag on the tops of them, ſtick lightly in ſe<g ref="char:EOLhyphen"/>veral places of their walk, and as they paſs by, the ſticks will fall down, and then uſe your Spade as be<g ref="char:EOLhyphen"/>fore.</p>
+               <p>At breeding time dig up there Hills where their young ones are in the places where their neſts are, be<g ref="char:EOLhyphen"/>ing as big again as their ordinary Hills, which you may ſoon diſcern, and by that means.</p>
+               <p>And ſo you may deſtroy all their young, and may take their old by watching a ſhort time for them, after you have made their neſts bare.</p>
+               <pb n="172" facs="tcp:115703:90"/>
+               <p> A Gentleman cauſed ſome two penyworth of red Herrings to be bought, and cut them into ſeveral parts, about ſix pieces of one Her<g ref="char:EOLhyphen"/>ring, and burning thoſe pieces ſe<g ref="char:EOLhyphen"/>verally on the Mole hills and other walks about the ground, there was not a Mole ever after ſeen in that ground.</p>
+               <p>Put Garlick, leeks, or an Onion in the mouths of the Mole hills, or in their entrings into the ground, and you ſhall ſee them come and leap out preſently amazed.</p>
+            </div>
+            <div n="28" type="chapter">
+               <head>To take Foxes. <hi>Chap. 28.</hi>
+               </head>
+               <p>TAke off the skin of a Kat, ſmear the body all over with hony, and
+<pb n="173" facs="tcp:115703:90"/>roſt her at the fire, powder it with powder of young Frogs, train it with a rope about the Foxes haunts to the place you deſire to bring them, and they will follow the ſent, and may eaſily be taken.</p>
+               <p>I have known ſome that have uſed a red Herring, and trayned it in that manner, others have uſed toſted Cheeſe, and both with very good ſucceſs.</p>
+            </div>
+            <div n="29" type="chapter">
+               <pb n="174" facs="tcp:115703:91"/>
+               <head>
+                  <hi>Chap. 29.</hi> To take Fallow or red Dear, that range in other mens Grounds, or in any other place.</head>
+               <p>TAke a mellow Apple, or a mel<g ref="char:EOLhyphen"/>low Crab, and bait it with a hook, without a beard, in compaſs of your ſinger, leaving it in their walk, and fixing it to a pack thred,
+<pb n="175" facs="tcp:115703:91"/>or whip cord, faſten the other end unto the root of the hedge, or ſome ſhort ſtake, if it be in the middle of a Field or Park, then ſtrike a hooked wooden pin into the ground, and the ableſt Dear will ſoon ſmell the bait a far off, and with very great greedineſs will ſwallow it up, to pre<g ref="char:EOLhyphen"/>vent their fellows.</p>
+               <p>In this manner Gentlemen have taken divers ſtags in a Foreſt; if they be remote from the bait, you may go at a diſtance from them, and ſo cauſe them to incline that way by degrees, when they have received the bait, they will ſtand as quiet as Lambs, and you may do what you pleaſe with them.</p>
+               <p>
+                  <hi>Opium</hi> laid in a place where the Dear do haunt or reſort, the beſt of them will ſoon ſent it, and ſwal<g ref="char:EOLhyphen"/>low it, and inſtantly fall down as if they were dead, and yet no harm at all, when you may take them before they recover, and act your pleaſure with them.</p>
+               <pb n="176" facs="tcp:115703:92"/>
+               <p> If they do not frame their courſe towards the bait, you may occaſi<g ref="char:EOLhyphen"/>on them to incline that way as be<g ref="char:EOLhyphen"/>fore.</p>
+               <p>I know a Gentleman that took a brace of very fat Bucks in an After<g ref="char:EOLhyphen"/>noon by the former way.</p>
+            </div>
+            <div n="30" type="chapter">
+               <head>
+                  <hi>Chap. 30.</hi> To deſtroy Rooks, Crows, Daws or Magpies.</head>
+               <p>PRovide little pieces of Fleſh, where you may put the powder of <hi>Arſnick,</hi> or ſublimate, and you will ſoon be rid of them all, if you lay them in ſeveral places where they reſort, but you muſt be care<g ref="char:EOLhyphen"/>full your Swine eat none of the
+<pb n="177" facs="tcp:115703:92"/>Crows or Fleſh, leſt they be like<g ref="char:EOLhyphen"/>wiſe poiſoned, therefore they muſt be all either buried or burned.</p>
+               <div type="observation">
+                  <head>Obſerv. <hi>1.</hi>
+                  </head>
+                  <p>Lay a dead Dog, or any Piece of Carriou in a field where they re<g ref="char:EOLhyphen"/>ſort, place little pieces of Fleſh ſomething near, ſo poyſoned as be<g ref="char:EOLhyphen"/>fore, and thereby you may make a ſudden diſpatch of them all, but keep your Dogs and Swine from that Field, till you have effected your deſire.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſerv. <hi>2.</hi>
+                  </head>
+                  <p>You may likewiſe break an Egge into half, and divide the yolk and the white, and mingle them with a little of the ſtuff, as before, and pla<g ref="char:EOLhyphen"/>cing them in a Garden, or any field where theſe do uſually prejudice you, and they will be deſtroyed ſuddenly in the place.</p>
+               </div>
+               <div type="observation">
+                  <pb n="178" facs="tcp:115703:93"/>
+                  <head>Obſerv. <hi>3.</hi>
+                  </head>
+                  <p>Or get the Liver of a Beaſt and cut it in pieces, and put into them the powder of <hi>Nux vomica,</hi> which being laid in open places, the ver<g ref="char:EOLhyphen"/>min that eat thereof, cannot fly a<g ref="char:EOLhyphen"/>way, and then you may take them eaſily.</p>
+               </div>
+            </div>
+            <div n="31" type="chapter">
+               <head>Chap. 31.</head>
+               <p>TO make Pidgeons ſtay and not ſtray abroad from their Houſes, ſmear their holes with <hi>Arſafetida,</hi> mingled with butter.</p>
+               <div type="observation">
+                  <head>Obſerv. <hi>1.</hi>
+                  </head>
+                  <p>To cauſe them to reſort and con<g ref="char:EOLhyphen"/>tinue at your Pidgeon-Houſes, kill a fat Dog, fley him, and fill his belly
+<pb n="163" facs="tcp:115703:93"/>full of Cummin-ſeeds, and roſt him dry, then waſh the Pidgeon holes with water, wherein Cummin ſeed is ſodden: but firſt cleanſe the holes from all filthineſs, then lay the roaſted Dog upon a broad ſtone in the Dove-Houſe, and hang a great Glaſs in the top of the Lover, and three or four looking Glaſſes in the Dove-Houſe, by ſome of the holes.</p>
+               </div>
+               <div type="observation">
+                  <head>Obſerv. <hi>2.</hi>
+                  </head>
+                  <p>Alſo take good Clay, and mingle with the Clay Bay-ſalt and Cum<g ref="char:EOLhyphen"/>min-ſeed, and make a great lump thereof like unto a Sugar loaf, then bake it hard, and ſet it by the dead Dog, and you may have Pidgeons enough.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:115703:94"/>
+            <head>Books printed for <hi>Henry Brome,</hi> at the <hi>Gun</hi> in <hi>Ivy-Lane.</hi>
+            </head>
+            <list>
+               <item>THe <hi>Souls Conflict,</hi> being eight Sermons, ſix whereof were preached in <hi>Oxford,</hi> and atteſted by the late Reverend Doctor <hi>Hewyt.</hi>
+               </item>
+               <item>Two Eſſays of Love and Mari<g ref="char:EOLhyphen"/>age.</item>
+               <item>The Queens Exchange, a Comedy, by <hi>R. Brome.</hi>
+               </item>
+               <item>The Life and Tryal of <hi>James Nay<g ref="char:EOLhyphen"/>ler.</hi>
+               </item>
+               <item>The Souls Turn-key, being a Con<g ref="char:EOLhyphen"/>ference betwixt Mr. <hi>Hanum</hi> and
+<pb facs="tcp:115703:94"/>Mr. <hi>Tuke</hi> Moderator of <hi>W. Coll.</hi> in <hi>London.</hi>
+               </item>
+               <item>Poems, Epigrams, Satyrs, on ſeve<g ref="char:EOLhyphen"/>ral perſons, and occaſions, by No Body muſt know whom, to be had Every Body knows where, and for Any Body knows what.</item>
+               <item>Doctor <hi>Brown</hi> of <hi>Sepulchral urnes,</hi> and his Garden of <hi>Cyrus.</hi>
+               </item>
+               <item>Five new Plays by <hi>Richard Brome,</hi> never before publiſh'd.</item>
+               <item>
+                  <hi>Shepheards</hi> Duty of Conſtables in 8.</item>
+               <item>St. <hi>Benaventures</hi> Soliloquies, contain<g ref="char:EOLhyphen"/>ing Meditations and Prayers, in 24.</item>
+            </list>
+         </div>
+         <div type="publishers_advertisement">
+            <head>Books now in the Preſs, which will ſhortly be extant.</head>
+            <list>
+               <item>THe Alliance of Holy Offices, by <hi>Hamon L' Eſtrange,</hi> Eſq</item>
+               <pb facs="tcp:115703:95"/>
+               <item>A Learned and long deſired Commentary on the whole E<g ref="char:EOLhyphen"/>piſtle to the <hi>Philipians,</hi> by <hi>Nath. Tucker,</hi> late Preacher of the Go<g ref="char:EOLhyphen"/>ſpel at <hi>Portſmouth.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:115703:95"/>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:115703:96"/>
+            <p>Speeds Husbandry.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:115703:97"/>
+            <p> Horum fabuloſorum hominum hoc minùs fe<g ref="char:EOLhyphen"/>renda eſt impietas, quod Prophetarum Di<g ref="char:EOLhyphen"/>vinorum &amp; Evangeliſtarum <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſcripta ad ſtabiliendas <hi>Vanitaets ſuas</hi> de<g ref="char:EOLhyphen"/>torquent; &amp; ea <hi>Ezekieli, Danieli,</hi> &amp; <hi>A<g ref="char:EOLhyphen"/>pocalypſeos</hi> authori affingunt, quae San<g ref="char:EOLhyphen"/>ctiſsimis Viris ne in mentum quidem vene<g ref="char:EOLhyphen"/>runt unquam. <hi>Scultetus</hi> in <hi>2 Tim. 3.1.</hi>
+            </p>
+            <p>Aureum ſeculum in Caelis, ferreum in terris expectandum. <hi>Idem.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
